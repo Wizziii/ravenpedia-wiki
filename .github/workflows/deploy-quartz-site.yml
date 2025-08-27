@@ -1,0 +1,61 @@
+name: Deploy Quartz Site
+
+on:
+  push:
+    branches:
+      - deploy
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    name: Build Quartz Site
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js v22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install and Build Quartz
+        run: |
+          cd quartz
+
+          echo "Installing dependencies..."
+          npm install
+
+          echo "Building site..."
+          npx quartz build
+
+          echo "Moving built files to _site folder at root..."
+          mkdir -p ../_site
+          mv ./public/* ../_site
+
+      - name: Verify build folder contents
+        run: |
+          echo "Listing _site folder contents"
+          ls -R ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

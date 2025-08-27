@@ -11,4 +11,4 @@ tags:
   - Materialien
   - Zutat
 ---
-Zu finden in [[Rabenhain]]
+Zu finden in [[Welten/Wizard City/Rabenhain/index]]

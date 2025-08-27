@@ -1,5 +1,5 @@
 Christian Kretschmer  
-c/o Ragdrasil UG (haftungsbeschränkt)  
+c/o Ragdrasil UG (haftungsbeschränkt) i.G.  
 Kipsdorferstraße 110  
 01309 Dresden
 

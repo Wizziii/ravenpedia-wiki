@@ -10,7 +10,7 @@ Die Spirale entstand aus den Fragmenten der zerstörten „Ersten Welt“. [[Rin
 [[Rindenbart]] verkörpert in der Spiralenzentrierung zugleich Chaos und Ordnung. Er stand an der Spitze der ersten Welt und wurde durch seinen „Lied der Schöpfung“ zum Schöpfer der Titanen – später gebaren diese die Konflikte, die zur Zerstörung der ersten Welt führten.
 ## Welten der Spirale
 
-Die Spiralwelten sind schwebende Inseln, erreichbar über zentrale Portale – etwa aus [[Rabenhain]] oder der Weltenhalle, oft mittels Schlüsselstein oder speziellen Zugangsmethoden.
+Die Spiralwelten sind schwebende Inseln, erreichbar über zentrale Portale – etwa aus [[Welten/Wizard City/Rabenhain/index]] oder der Weltenhalle, oft mittels Schlüsselstein oder speziellen Zugangsmethoden.
 
 Die Spirale umfasst viele Welten, die jeweils eigene Kulturen, Magieschulen und Geschichten enthalten. 
 ### Hauptwelten (Story-Verlauf)

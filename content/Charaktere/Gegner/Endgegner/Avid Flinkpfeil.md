@@ -7,7 +7,7 @@ tags:
   - Gegner
   - Endgegner
 ---
-zu finden im [[Feuer-Globus-Theater]] in der [[Feuerkatzenallee]] mit einem [[Magmamann]]
+zu finden im [[Feuer-Globus-Theater]] in der [[Welten/Wizard City/Feuerkatzenallee/index]] mit einem [[Magmamann]]
 
 er hat folgende Zauber [[Schneeschild]], [[Zauber/Magieschulen/Feuer/Feuerkatze|Feuerkatze]], [[Flammenschlange]], [[Zauber/Magieschulen/Feuer/Sonnenvogel|Sonnenvogel]], [[Zauber/Magieschulen/Mythos/Blutflederer|Blutflederer]], [[Zauber/Magieschulen/Leben/Wichtel|Wichtel]] und [[Einfacher Angriff]]
 

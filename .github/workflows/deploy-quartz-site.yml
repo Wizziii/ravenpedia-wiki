@@ -24,19 +24,21 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Install and Build Quartz
+      - name: Install Dependencies
+        working-directory: ./quartz
+        run: npm install
+
+      - name: Build Quartz Site
+        working-directory: ./quartz
+        run: npx quartz build
+
+      - name: Organize Artifact Files
         run: |
-          cd quartz
+          echo "Creating artifact directory at root..."
+          mkdir -p ./_site
 
-          echo "Installing dependencies..."
-          npm install
-
-          echo "Building site..."
-          npx quartz build
-
-          echo "Moving built files to _site folder at root..."
-          mkdir -p ../_site
-          mv ./public/* ../_site
+          echo "Moving built files into artifact directory..."
+          mv ./quartz/public/* ./_site/
 
       - name: Verify build folder contents
         run: |

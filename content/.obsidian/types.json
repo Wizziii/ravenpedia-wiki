@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "discription": "text",
+    "tradeable": "checkbox",
+    "auctionable": "checkbox",
+    "rarity": "multitext",
+    "rank": "number"
+  }
+}

@@ -1,3 +1,17 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+
+// Mermaid styling
+code.mermaid svg {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 100%;
+}
+pre:has(code.mermaid) button.clipboard-button {
+  display: none;
+}
+@media (max-width: 800px) {
+  pre:has(code.mermaid) button.expand-button {
+    display: none;
+  }
+}

@@ -1,7 +1,7 @@
 ---
 title: Schule der Schatten
 ---
-Die Schattenmagie ist eine verbotene und instabile Form der Magie, die tiefer in die Struktur der [[Welten/index|Spirale]] eingreift als jede andere Schule. [[Merle Ambrose]] lehrt sie nicht in [[Rabenhain]] – ihre Kräfte wurden aus Sorge vor Missbrauch und unkontrollierbaren Nebenwirkungen lange geheim gehalten. Erst während der Ereignisse in [[Welten/Khrysalis/index|Khrysalis]] wird diese Magie wiederentdeckt.
+Die Schattenmagie ist eine verbotene und instabile Form der Magie, die tiefer in die Struktur der [[Welten/index|Spirale]] eingreift als jede andere Schule. [[Merle Ambrose]] lehrt sie nicht in [[Welten/Wizard City/Rabenhain/index]] – ihre Kräfte wurden aus Sorge vor Missbrauch und unkontrollierbaren Nebenwirkungen lange geheim gehalten. Erst während der Ereignisse in [[Welten/Khrysalis/index|Khrysalis]] wird diese Magie wiederentdeckt.
 
 Sie gilt als Gegenschule zu den klassischen Magieschulen und kann erst in [[Welten/Khrysalis/index|Khrysalis]] erlernt werden, wenn der Spieler [[Morganthe]] stellt und besiegt. Um Schattenzauber anzuwenden, werden [[Schatten-Pips]] benötigt. Diese sind selten und stehen erst zur Verfügung, nachdem man Zugang zur ersten Trainerin [[Sofia Dunkelweit]] erhalten und die ersten Zauber gelernt hat.
 

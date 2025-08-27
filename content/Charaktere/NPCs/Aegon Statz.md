@@ -3,4 +3,4 @@ tags:
   - Charakter
   - NPC
 ---
-In [[Rabenhain]]
+In [[Welten/Wizard City/Rabenhain/index]]

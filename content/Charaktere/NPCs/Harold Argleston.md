@@ -20,3 +20,5 @@ Er verkauft folgende Goldkarten:
 - [[Zauber/Goldkarten/Mythos/Blutflederer|Blutflederer]]
 - [[Zauber/Goldkarten/Tod/Finsterfee|Finsterfee]]
 - [[Zauber/Goldkarten/Feuer/Feuerkatze|Feuerkatze]]
+- [[]] 
+- 

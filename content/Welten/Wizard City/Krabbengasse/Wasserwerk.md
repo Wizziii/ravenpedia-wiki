@@ -11,11 +11,11 @@ Das Wasserwerk ist ein legendärer Dungeon für Spielende auf Level 60, welcher 
 
 ![[Picture 2025-08-13 14-33-28.jpg]]
 
-Unter der [[Welten/Wizard City/Krabbengasse/index|Krabbengasse]] verläuft ein System alter Zugangstunnel. Diese Tunnel wurden von einer Bande von Raufbolden aus unbekannten Gründen aufgebrochen, was dazu führte, dass der Wasserdruck rapide schwankte und Probleme sowohl für die [[Welten/Wizard City/Krabbengasse/index|Krabbengasse]] selbst als auch für die Anwohner der [[Welten/Wizard City/Tritonstraße/index]] an der Oberfläche verursachte. Als Reaktion darauf ruft [[Bruno Rabenaug]]die Legendären Zauberer um Hilfe. Diese werden schließlich von [[Herrmann]] zu einem beschädigten Zugangsturm geführt, wodurch sie den Eindringlingen ins Innere folgen können.
+Unter der [[Welten/Wizard City/Krabbengasse/index|Krabbengasse]] verläuft ein System alter Zugangstunnel. Diese Tunnel wurden von einer Bande von Raufbolden aus unbekannten Gründen aufgebrochen, was dazu führte, dass der Wasserdruck rapide schwankte und Probleme sowohl für die [[Welten/Wizard City/Krabbengasse/index|Krabbengasse]] selbst als auch für die Anwohner der [[Welten/Wizard City/Tritonstraße/index|Tritonstraße]] an der Oberfläche verursachte. Als Reaktion darauf ruft [[Bruno Rabenaug]]die Legendären Zauberer um Hilfe. Diese werden schließlich von [[Herrmann]] zu einem beschädigten Zugangsturm geführt, wodurch sie den Eindringlingen ins Innere folgen können.
 
 ![[Picture 2025-08-13 14-34-31.jpg]]
 
-Im Wasserwerk kann man die ebenso legendäre Wasserwerkausrüstung für alle Schulen erbeuten. Die beiden Hauptgegner im Dungeon, [[Luska Talismund]] und (genannt "Tinti") und [[Sylster Glitzerstrom]], stellen mit ihren speziellen Regeln ("Cheats") noch heute eine Herausforderung für Spieler dieses Levels dar.
+Im Wasserwerk kann man die ebenso legendäre Wasserwerkausrüstung für alle Schulen erbeuten. Im Dungeon sorgen die Endgegner [[Luska Talismund]] und [[Sylster Glitzerstrom]] mit ihren besonderen Mechaniken bis heute dafür, dass Kämpfe auf diesem Level anspruchsvoll bleiben.
 
 ---
 ## Dungeonverlauf

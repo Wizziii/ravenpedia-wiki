@@ -17,8 +17,6 @@ const config: QuartzConfig = {
     },
     locale: "de-DE",
     baseUrl: "ravenpedia.xyz",
-    description:
-        "Ravenpedia – dein deutschsprachiges Community-Wiki zu Wizard101 mit Quests, Welten und Guides. Wo die Geheimnisse der Spirale zusammenfinden.",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

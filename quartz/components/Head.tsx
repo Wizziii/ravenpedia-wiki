@@ -36,6 +36,25 @@ export default (() => {
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    
+
+    // Keyword config
+    const keywordLimit = cfg.keywordLimit ?? 10; // Define a maximum number of keywords. 
+    const baseKeywords = cfg.defaultKeywords ?? [
+    "Wizard101",
+    "Ravenpedia",
+    "Wizard101 Wiki",
+    "W101 Wiki",
+    "Wizard101 Fanpage",
+    ]; // Define the default keywords. This list is used as a base for all pages.
+
+    // Keyword logic 
+    const pageTags = fileData.frontmatter?.tags ?? [];
+    const combinedKeywords = [...baseKeywords, ...pageTags];.
+    const uniqueKeywords = [...new Set(combinedKeywords)]; // Remove any duplicates to ensure each keyword is unique.
+    const limitedKeywords = uniqueKeywords.slice(0, keywordLimit); // Enforce the limit on the total number of keywords.
+    const keywords = limitedKeywords.join(", ");
+
     return (
       <head>
         <title>{title}</title>
@@ -55,6 +74,7 @@ export default (() => {
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
+        <meta name="keywords" content={keywords} />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />

@@ -1,5 +1,6 @@
 ---
 title: Ravenpedia
+description: Ravenpedia – dein deutschsprachiges Community-Wiki zu Wizard101 mit Quests, Welten und Guides. Wo die Geheimnisse der Spirale zusammenfinden.
 ---
 # Willkommen bei Ravenpedia
 

@@ -4,6 +4,7 @@ tags:
   - WizardCity
 aliases:
   - Ravenwood
+  - Rabenhain Akademie
 ---
 Rabenhain ist die Zauberakademie, in der neue Magier und Magierinnen im Spiel ausgebildet werden. Gegründet von [[Merle Ambrose]] und [[Rindenbart]], dient sie als Kernort der Ausbildung und springt immer wieder als zentrale Anlaufstelle ins Spielgeschehen.
 

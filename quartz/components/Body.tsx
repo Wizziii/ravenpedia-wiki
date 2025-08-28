@@ -7,6 +7,12 @@ const Body: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return <div id="quartz-body">{children}</div>
 }
 
+const CustomScript: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
+  return (
+    <script async src="https://scripts.withcabin.com/hello.js"></script>
+  )
+}
+
 Body.afterDOMLoaded = clipboardScript
 Body.css = clipboardStyle
 

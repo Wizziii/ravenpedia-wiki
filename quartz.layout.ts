@@ -17,7 +17,7 @@ export const sharedPageComponents: SharedLayout = {
 
 const explorerConfig = Component.Explorer({
     filterFn: (node) => {
-        const omit = new Set(["impressum", "datenschutz"]) // Exclude specific nodes from the explorer
+        const omit = new Set(["impressum", "datenschutz", "test"]) // Exclude specific nodes from the explorer
         return !omit.has(node.displayName.toLowerCase())
     },
 })

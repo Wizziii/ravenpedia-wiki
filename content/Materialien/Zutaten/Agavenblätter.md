@@ -15,7 +15,7 @@ Wenn du Agavenblätter sammelst oder als Drop bekommst, besteht eine Chance, das
 
 > [!info]+ Vorkommen
 >
-> [[Welten/Wizard City/index|Wizard City]] im [[Schloss Düstermoor]]
+> [[Welten/Wizard City/index|Wizard City]] im [[Welten/Wizard City/Schattenbruch/Schloss Düstermoor/index]]
 > [[Welten/Azteka/index|Azteka]] in den Regionen [[Alto Alto]], [[Wolkenbruch-Wald]] und [[Mangrovensümpfe]]
 > [[Welten/Khrysalis/index|Khrysalis]]
 > [[Welten/Polaris/index|Polaris]]

@@ -27,11 +27,11 @@ Diese Website verwendet keine Cookies, die personenbezogene Daten speichern. Fal
 YouTube  
 Auf dieser Website sind Videos der Plattform „YouTube“ eingebettet, betrieben von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Beim Aufrufen einer Seite mit eingebettetem YouTube-Video wird eine Verbindung zu den Servern von Google hergestellt. Dabei wird dem YouTube-Server mitgeteilt, welche Seite du besucht hast.
 Wenn du in deinem YouTube-Konto eingeloggt bist, kann YouTube dein Surfverhalten direkt deinem persönlichen Profil zuordnen. Dies kannst du verhindern, indem du dich aus deinem YouTube-Konto ausloggst.
+
 YouTube kann außerdem Cookies setzen oder ähnliche Technologien verwenden, um Informationen über Besucher zu sammeln. Diese Verarbeitung erfolgt auf Grundlage deiner Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO, die du über ein entsprechendes Consent-Tool erteilst (sofern auf dieser Seite implementiert). Weitere Informationen findest du in der Datenschutzerklärung von Google: https://policies.google.com/privacy.
 
 **Deine Rechte**  
 Du hast jederzeit das Recht:
-
 - auf Auskunft nach Art. 15 DSGVO
 - auf Berichtigung nach Art. 16 DSGVO
 - auf Löschung nach Art. 17 DSGVO

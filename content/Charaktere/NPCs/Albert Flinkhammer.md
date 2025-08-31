@@ -1,0 +1,127 @@
+---
+title: Albert Flinkhammer
+tags:
+  - Charakter
+  - NPC
+  - Händler
+---
+Möbelverkäufer von [[Welten/Wizard City/index|Wizard City]]. Er steht neben [[Buxley Schildkröt]] im [[Welten/Wizard City/Kaufmannsviertel/index|Kaufmannsviertel]] in Schloss- und Möbelladen. 
+
+Verkauft:
+
+Pflanzen:
+- [[Kleiner Busch]]
+- [[Violette Veilchen]]
+- [[Feuerblumen]]
+- [[Heckenabschnitt]]
+- [[Kleine Zypresse]]
+- [[Kleiner Ahornbaum]]
+
+Wanddekoration:
+- [[Spindel]]
+- [[Gabelförmige Wandlampe]]
+- [[Partybanner]]
+- [[Krok-Balanceplakette]]
+- [[Spiralenplakette]]
+- [[Sturmplakette]]
+- [[Mythosplakette]]
+- [[Lebensplakette]]
+- [[Eisplakette]]
+- [[Feuerplakette]]
+- [[Todesplakette]]
+- [[Der Turm]]
+- [[Edle Wandlampe]]
+- [[Zwei Bäume]]
+
+Tapeten und Fliesen:
+- [[Dielenboden]]
+- [[Holzfußboden]]
+- [[Gemusterte Bodenfliese]]
+- [[Holzbodenfliesen]]
+- [[Tapete mit Kornblumen]]
+- [[Lavendelfarbende Tapete]]
+- [[Violette Tapete]]
+- [[Mauerwerk-Tapete]]
+- [[Zauberhafte Tapete]]
+- [[Sternmosaikfliesen]]
+- [[Tapete für Puzzlefreunde]]
+- [[Winterblaue Tapete]]
+- [[Mond-Und-Sterne-Tapete]]
+- [[Tapete mit Gewitterwolken]]
+- [[Gelbgrüner Windrädchenboden]]
+- [[Gelber WIndrädchenboden]]
+- [[Violetter Windrädchenboden]]
+- [[Lila Windrädchenboden]]
+- [[Lachsfarbender Windrädchenboden]]
+- [[Roter Windrädchenboden]]
+- [[Rosaroter Winrädchenboden]]
+- [[Oranger Windrädchenboden]]
+- [[Grauer Windrädchenboden]]
+- [[Grüner Windrädchenboden]]
+- [[Brauner Windrädchenboden]]
+- [[Purpurner Windrädchenboden]]
+- [[Türkiser Windrädchenboden]]
+- [[Blauer Windrädchenboden]]
+- [[Schwarzer Windrädchenboden]]
+- [[Sonnengelber Windrädchenboden]]
+- [[Tapete mit Zeichnungen]]
+- [[Rosa Teppich]]
+- [[Tapete mit Rosa Herzen]]
+- [[Grasfußboden]]
+
+Draußen:
+- [[Holzfass]]
+- [[Kleiner Steinsockel]]
+- [[Schlichter Steinsockel]]
+- [[Helle Steinmauer]]
+- [[Edler Laternenpfahl]]
+- [[Schlichter Steinturm]]
+- [[Verzierter Steinsockel]]
+- [[Kleines Gelbes Zelt]]
+
+Möbel: 
+- [[Verstärkte Kiste]]
+- [[Holzstuhl]]
+- [[Holzbank]]
+- [[Gepolsterter Hocker]]
+- [[Klapphocker]]
+- [[Gebeizter Nachttisch]]
+- [[Bücheregal]]
+- [[Kleiner Mondteppich]]
+- [[Schlichtes Bett]]
+- [[Kleiner Teppich mit blauem Rand]]
+- [[Niedriger Holztisch]]
+- [[Gebeizter Kleiderschrank]]
+- [[Verzierter Rundtisch]]
+- [[Verzierter Schreibtisch]]
+- [[Juweliers-Werkbank]]
+- [[Einrichtungswerkbank]]
+
+Dekoration:
+- [[Feuerholz]]
+- [[Tintenfass]]
+- [[Rotes Kissen]]
+- [[Feiertags-Öllampe]]
+- [[Feiertagslaterne]]
+- [[Urlaubsmenora]]
+- [[Festtags-Kerzenhalter]]
+- [[Leeres Glas]]
+- [[Kerze mit Halter]]
+- [[Fußbodenbecken]]
+- [[Kurze Rechteckige Vase]]
+- [[Tic Tac Toe: X-Spielstein]]
+- [[Tac Tac Toe: O-Speilstein]]
+- [[Geborstene Säule]]
+- [[Ballons]]
+- [[Steinsäule]]
+- [[Geschnitze Säule]]
+- [[Rechteckige Säule]]
+- [[Gravulum-Magnetit]]
+- [[Musikspieler]]
+- [[Tic Tac Toe: Spielfeld]]
+- [[Geburtstagstorte]]
+- [[Rucksack-Butler]]
+
+Musikstücke:
+- [[Wizard City-Titellied]]
+- [[Krokotopia-Titellied]]

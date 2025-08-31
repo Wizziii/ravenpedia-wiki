@@ -1,4 +1,5 @@
 {
-  "theme": "system",
-  "accentColor": "#469b0d"
+  "enabledCssSnippets": [
+    "hide-empty-headers"
+  ]
 }

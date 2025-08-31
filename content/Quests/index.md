@@ -1,64 +1,43 @@
-Quests bilden den Kern deiner Reise durch [[Welten/index|die Spirale]], denn viele Bewohnerinnen und Bewohner der verschiedenen Welten benötigen deine Hilfe. Quests bestehen aus unterschiedlichsten Aufträgen, die dir [[Charaktere/NPCs/index|NPCs]] anbieten und leiten dich von [[Welten/Wizard City/index|Wizard City]] bis zu den abgelegensten Welten. 
+---
+title: Quests
+description: "Wizard101 Quests erklärt: Finde Haupt- & Nebenquests, nutze Questbuch, Questfinder und Questpfeil für schnellen Fortschritt."
+---
+Quests bilden den Kern deiner Reise durch die [[Welten/index|Spirale]], denn viele Bewohnerinnen und Bewohner der verschiedenen Welten benötigen deine Hilfe. Quests bestehen aus unterschiedlichsten Aufträgen, die dir [[Charaktere/NPCs/index|NPCs]] anbieten und die dich von [[Welten/Wizard City/index|Wizard City]] bis zu den abgelegensten Welten führen. 
 ## Was sind Quests?
 
-In Wizard101 gibt es zwei Questtypen: 
+Quests sind die Grundlage deiner Reise in Wizard101. Sie geben dem Spiel Richtung, erklären dir, was zu tun ist, und belohnen dich für deinen Fortschritt. Ohne Quests würdest du dich einfach nur treiben lassen und mit ihnen hast du Ziele und eine Geschichte, die dich durch die [[Welten/index|Spirale]] führt.
 
-- **Hauptquests**, im englischen Storyline Quests, bringen die Handlung der Geschichte voran. Sie kommen von wichtigen [[Charaktere/NPCs/index|NPCs]] und leiten dich durch die Welten. Als Belohnung bekommst du meist [[Erfahrungspunkte]], [[Gold]] oder [[Trainingspunkte]]. Diese Quests treiben deine Reise durch die [[Welten/index|Spirale]] an.
+In Wizard101 gibt es zwei Typen von Quests:
 
-- **Nebenquests** (engl. Side Quests), ergänzen meist die Geschichte, sind jedoch nicht Hauptbestandteil der Geschichte. Diese Quests sind optional und erzählen kurze Zusatzgeschichten und/oder geben dir Extra-Belohnungen.
+| Hauptquests (Storyline Quests) | Nebenquests (Side Quests) |
+| ------------------------------ | ------------------------- |
+| ![[Hauptquest.jpg]]            | ![[Nebenquest.jpg]]       |
+- **[[Quests/Hauptquests/index|Hauptquests]]** bringen die Handlung voran und sind am Sternsymbol links und rechts neben dem Questnamen erkennbar. Sie kommen von wichtigen [[Charaktere/NPCs/index|NPCs]] und führen dich durch die Welten. Als Belohnung erhältst du meist [[Erfahrungspunkte]], [[Gold]] oder [[Trainingspunkte]]. Diese Quests sind der rote Faden deiner Reise durch die [[Welten/index|Spirale]].
+- **[[Quests/Nebenquests/index|Nebenquests]]** ergänzen meist die Geschichte, Sie sind optional und erzählen kurze Zusatzgeschichten und geben dir zusätzliche Belohnungen. 
 ## Wie findet man Quests?
 
-In den Welten der Spirale triffst du ständig auf NPCs, die deine Hilfe in Anspruch nehmen wollen, je nach Quest sind es manchmal einfache Botengänge, manchmal jedoch anspruchsvolle und gefährliche Abenteuer.
+In den Welten der [[Welten/index|Spirale]] triffst du ständig [[Charaktere/NPCs/index|NPCs]], die deine Hilfe brauchen. Damit du ihre Quests sofort erkennst, zeigt dir das Spiel kleine Symbole über ihren Köpfen – mal einfache Botengänge, mal anspruchsvolle Abenteuer.
 
-Damit du weißt, welche Aufgaben dich erwarten und wo du gerade stehst, zeigt dir das Spiel kleine Symbole über den Köpfen der NPCs. Anhand dieser erkennst du sofort, ob jemand eine neue Quest für dich hat, ob du noch daran arbeitest oder ob du sie schon abgeschlossen hast.
+| Symbol                       | Beschreibung                                                                                                                      |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Ausrufezeichen_gelb.png]] | **Gelbes Ausrufezeichen**: Ein [[Charaktere/NPCs/index\|NPC]] hat eine **neue Quest** für dich. Sprich ihn an, um sie zu starten. |
+| ![[Graues Fragezeichen.png]] | **Graues Fragezeichen**: Du **arbeitest gerade** an einer Quest für diesen [[Charaktere/NPCs/index\|NPC]].                        |
+| ![[Frageszeichen_gelb.png]]  | **Gelbes Fragezeichen**: Du hast die Quest **abgeschlossen** und musst sie **nur noch abgeben**.                                  |
+### Quest-Tagebuch
 
-| Symbol                                                                                                             | Bedeutung                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![null](https://akamai.wizard101.com/image/free/Wizard/C/Wizard-Society/Newsletter/QuestSpiralexclamation.gif?v=0) | Ein **gelbes Ausrufezeichen** über einem NPC bedeutet, dass hier eine neue Quest für dich wartet. Sprich den [[Charaktere/NPCs/index\|NPC]] an, um sie zu starten.      |
-| ![null](https://akamai.wizard101.com/image/free/Wizard/Players-Guide/Questing/wizbanquestionsilver.gif?v=0)        | Über dem [[Charaktere/NPCs/index\|NPC]] ist ein **graues Fragezeichen**, wenn du derzeit an der Quest arbeitest.                                                        |
-| ![null](https://akamai.wizard101.com/image/free/Wizard/Players-Guide/Questing/wizbangquestiongold.gif?v=1)         | Bei einem **gelben Fragezeichen** hast du Quest erledigt. Du musst sie nur noch beim jeweiligen [[Charaktere/NPCs/index\|NPC]] abgeben, um deine Belohnung zu bekommen. |
+Das Tagebuch ist das zentrale Nachschlagewerk für alle laufenden Quests. Es wird mit der Taste Q geöffnet. Dort erscheinen alle aktuell angenommenen Quests in deinem Zauberbuch. Jeder Quest-Eintrag im Quest-Tagebuch zeigt dir alle wichtigen Informationen auf einen Blick:
+- Name der Quest
+- Konversationen zur Quest
+- Ziel der Quest
+- Welt und Gebiet
+- Belohnungen
+### Questfinder
 
+Der Questfinder ist ein Werkzeug im [[Quests/index#Quest-Tagebuch|Quest-Tagebuch]], das automatisch nach offenen Quests sucht. Er prüft zuerst das aktuelle Gebiet, danach die restliche Welt. Wenn dort nichts verfügbar ist, muss in eine andere Welt gewechselt werden. Anschließend zeigt er an, mit welchem [[Charaktere/NPCs/index|NPC]] man sprechen soll, und der [[Quests/index#Questpfeil|Questpfeil]] weist direkt den Weg.
 
+![[Questfinder.jpg]]
+### Questpfeil
 
+Der Questpfeil am unteren Bildschirmrand zeigt dir den Weg zu deiner aktiven Quest. Mit Strg + T kannst du ihn ein- oder ausschalten. Der Pfeil zeigt nicht nur die Richtung, sondern auch die Anzahl an Schritten bis zum Ziel. Manche Quests lassen sich jedoch nicht damit verfolgen – hier musst du den Ort selbst finden.
 
-
-
-
-
-Game Quests Questing  <br>  <br>**Overview:** Many citizens of the different worlds of the spiral need your help. So as you progress on your journey, make sure you interact with as many individuals as possible. They will offer you quests – sometimes complex and often dangerous tasks.  <br>  <br><br>![null](https://akamai.wizard101.com/image/free/Wizard/Players-Guide/Questing/Questing2.JPG?v=0)
-
-br><br>**Quest Icons on the Map**  <br>[![](https://akamai.wizard101.com/image/free/Wizard/C/Wizard-Society/Patch-Notes/questcommonssmall.jpg?v=1)](https://www.wizard101.com/w101playersguide/questing?utm_source=chatgpt.com#)  <br>New and ready to be completed quests will show up on your Map. A yellow ring will indicate who you need to talk to on the Map.\\||
-
-Buildings/Structures
-
-**Blue Window Light** – You have a quest objective or character in the building/structure and can enter.
-
-![[Pasted image 20250831151916.png]]
-
-**Yellow Window Light** – You can enter this building/structure.
-![[Pasted image 20250831151931.png]]
-
-
-**No Window Light** – You cannot enter this building/structure.
-
-![[Pasted image 20250831151937.png]]
-Gauntlets  
-Gauntlets are special Dungeons. If you leave a gauntlet for any reason it resets. Golem Tower is an example of a gauntlet.
-
-
-Dungeons  
-Dungeons must be completed to get full credit. Logging out, leaving through the Dungeon entrance, going to another dungeon, playing a Mini-game, going to a PvP or Derby match, or going to your home will reset the Dungeon. Leaving any other way gives you 30 minutes to return before the Dungeon resets.  
-  
-
-![null](https://akamai.wizard101.com/image/free/Wizard/Players-Guide/Questing/Questing4.JPG?v=0)
-
-  
-Dungeons have entry Sigils. If the sigils are lit up, you can enter the dungeon, just walk in to the blue circles, press ‘X’, and wait for the countdown to finish. You can also enter Dungeons with up to four players. To do so, you all have to interact with the circles before the countdown reaches zero.
-
-
-Your Quest Journal  
-You can reach your Quest Journal by pressing **Q** on your keyboard while you are not in a duel. You will see a book showing your current quests.  
-Here is more information about the different areas of your quest journal entries.
-
-![[Pasted image 20250831152039.png]]
-
+![[Questpfeil.jpg]]

@@ -17,6 +17,43 @@ Hier findest du alles, was dir den Einstieg in Wizard101 erleichtert. Von den er
 ## Die Welten der Spirale
 
 Die Geschichte von Wizard101 ist in sogenannte Arcs (Handlungsbogen, ein Abschnitt einer Geschichte) unterteilt. Jeder Arc umfasst mehrere Welten, die zusammen eine größere Handlung ergeben. So kannst du die Reise der Spirale besser einordnen:
+
+```mermaid
+%%{init: { 
+  "theme": "base",
+  "themeVariables": {
+    "background": "#ffffff",
+    "primaryColor": "#ffffff",
+    "primaryTextColor": "#000000",
+    "tertiaryColor": "#000000",
+    "textColor": "#000000",
+    "lineColor": "#000000",
+  }
+}}%%
+kanban
+  Arc 1
+    [Wizard City]
+    [Krokotopia]
+    [Marleybone]
+    [MuHong]
+    [Drachenfels]
+  Arc 2
+    [Celestia]
+    [Zafaria]
+    [Avalon]
+    [Azteka]
+    [Khrysalis]
+  Arc 3
+    [Polaris]
+    [Mirage]
+    [Empyrea]
+  Arc 4
+    [Karamell]
+    [Lemuria]
+    [Novus]
+    [Wallaru]
+
+```
 ### Arc 1 – Die Tragödie von Malistaire
 
 Deine Reise beginnt als Schülerin oder Schüler in der [[Welten/Wizard City/Rabenhain/index|Rabenhain Akademie]] von [[Welten/Wizard City/index|Wizard City]]. Dort zeigt sich schnell, dass der abtrünnige Professor [[Malistaire]] dunkle Pläne verfolgt. Auf der Suche nach verbotener Magie führt er dich von den Pyramiden [[Welten/Krokotopia/index|Krokotopias]] über die Straßen [[Welten/Marleybone/index|Marleybones]] bis in das friedliche Kaiserreich [[Welten/MuHong/index|MuHong]]. Schließlich erreichst du [[Welten/Drachenfels/index|Drachenfels]], ein verwüstetes Land voller feuerspeiender Kreaturen und uralter Geheimnisse. Dort kommt es zum entscheidenden Kampf gegen [[Malistaire]], der aus Trauer um seine verstorbene Frau bereit ist, die [[Welten/index|Spirale]] ins Chaos zu stürzen.

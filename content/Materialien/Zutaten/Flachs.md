@@ -1,5 +1,6 @@
 ---
 tags:
   - Materialien
-  - Magieralie
+  - Zutat
 ---
+Kann gefunden werden in Stadtmitte und EInhornweg

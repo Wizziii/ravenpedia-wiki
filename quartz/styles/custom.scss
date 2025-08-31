@@ -15,9 +15,3 @@ pre:has(code.mermaid) button.clipboard-button {
     display: none;
   }
 }
-
-
-// Hide empty table headers
-table > thead:not(:has(th:not(:empty))) {
-  display: none;
-}

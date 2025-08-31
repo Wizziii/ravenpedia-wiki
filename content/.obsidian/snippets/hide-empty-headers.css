@@ -1,3 +1,0 @@
-table > thead:not(:has(th:not(:empty))) {
-    display: none;
-}

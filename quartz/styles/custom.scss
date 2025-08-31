@@ -15,3 +15,20 @@ pre:has(code.mermaid) button.clipboard-button {
     display: none;
   }
 }
+
+/* make Mermaid links more visible. */
+html[saved-theme="dark"] .mermaid .nodeLabel p a {
+  color: white;
+}
+
+html[saved-theme="dark"] .mermaid .nodeLabel p a:hover {
+  color: #d5d5d5;
+}
+
+html[saved-theme="light"] .mermaid .nodeLabel p a {
+  color: #171717;
+}
+
+html[saved-theme="light"] .mermaid .nodeLabel p a:hover {
+  color: #595959;
+}

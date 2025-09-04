@@ -2,6 +2,7 @@
 title: Die Spirale
 aliases:
   - Spirale
+sort: 2
 ---
 Die Spirale ist das magische Netz, das sämtliche Welten in Wizard101 verbindet – ein Universum fragmentierter Welten, die durch mächtige Kräfte zusammengehalten werden.
 

@@ -20,6 +20,40 @@ const explorerConfig = Component.Explorer({
         const omit = new Set(["impressum", "datenschutz", "test"]) // Exclude specific nodes from the explorer
         return !omit.has(node.displayName.toLowerCase())
     },
+    sortFn: (a, b) => {
+        const aSort = (a as any).data?.frontmatter?.sort;
+        const bSort = (b as any).data?.frontmatter?.sort;
+        
+        console.log({
+          a: a.displayName,
+          aSort,
+          b: b.displayName,
+          bSort,
+        })
+    
+        // Sort order: folders first, then files.
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          if (aSort !== undefined && bSort !== undefined) {
+            if (aSort < bSort) return -1
+            if (aSort > bSort) return 1
+          } else if (aSort !== undefined) {
+            return -1
+          } else if (bSort !== undefined) {
+            return 1
+          }
+    
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+    
+        if (!a.isFolder && b.isFolder) {
+          return 1
+        } else {
+          return -1
+        }
+      },
 })
 
 // components for pages that display a single page (e.g. a single note)

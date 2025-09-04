@@ -4,13 +4,14 @@ tags:
   - WizardCity
 aliases:
   - Pet Pavilion
+sort: 2
 ---
-Der Platz der Tiere ist das zentrale Haustier-Gebiet in Wizard City. Spielerinnen und Spieler können hier ihre [[Ausrüstung/Haustiere/index|Haustiere]] trainieren, an Wettbewerben teilnehmen und durch Zucht neue Arten hervorbringen. Mit seinem Brunnen im Zentrum, den Parkbereichen und bunten Ständen erinnert der Platz an einen kleinen Markt voller Leben. Für viele gilt er als einer der wichtigsten Treffpunkte von Wizard101, da er eine Mischung aus Spiel, Fortschritt und sozialem Austausch bietet.
+Der Platz der Tiere ist das zentrale Haustier-Gebiet in [[Welten/Wizard City/index|Wizard City]]. Spielerinnen und Spieler können hier ihre [[Ausrüstung/Haustiere/index|Haustiere]] trainieren, an Wettbewerben teilnehmen und durch Zucht neue Arten hervorbringen. Mit seinem Brunnen im Zentrum, den Parkbereichen und bunten Ständen erinnert der Platz an einen kleinen Markt voller Leben. Für viele gilt er als einer der wichtigsten Treffpunkte von Wizard101, da er eine Mischung aus Spiel, Fortschritt und sozialem Austausch bietet.
 
 Der Platz der Tiere ist nicht von Anfang an zugänglich, sondern wird über die Quest [[Quests/Platz der Tiere|Platz der Tiere]] freigeschaltet, die [[Merle Ambrose]] vergibt. Voraussetzung dafür ist mindestens Stufe 7. Nach Abschluss der Quest steht das Gebiet dauerhaft offen.
 ## Aufbau des Gebietes
 
-Der Platz der Tiere ist kreisförmig angelegt und wird von einem großen Brunnen in der Mitte geprägt. Rund um diesen zentralen Punkt reihen sich verschiedene Trainingsplätze und Einrichtungen, die jeweils ein eigenes Minispiel oder eine spezielle Funktion bieten. Direkt am Ende des Tunnels aus der [[Welten/Wizard City/Stadtmitte/index]] gelangt man auf den Platz.
+Der Platz der Tiere ist kreisförmig angelegt und wird von einem großen Brunnen in der Mitte geprägt. Rund um diesen zentralen Punkt reihen sich verschiedene Trainingsplätze und Einrichtungen, die jeweils ein eigenes Minispiel oder eine spezielle Funktion bieten. Direkt am Ende des Tunnels aus der [[Welten/Wizard City/Stadtmitte/index|Stadtmitte]] gelangt man auf den Platz.
 
 Vor dem Brunnen steht [[Milo Bellini]], der Leiter des Platzes. Links und rechts daneben befinden sich die beiden Anmeldesäulen für Haustier-Derbyrennen.
 

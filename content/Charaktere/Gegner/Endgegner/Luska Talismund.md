@@ -1,14 +1,26 @@
 ---
 title: Luska Talismundl
-school: Balance
-rang: 12
-life: "21.150"
 tags:
   - Charakter
   - Gegner
   - Endgegner
+  - WizardCity
+  - Krabbengasse
 ---
-
+<table>
+  <tr>
+    <td>Schule</td>
+    <td>Balance</td>
+  </tr>
+  <tr>
+    <td>Rang</td>
+    <td>12 Boss</td>
+  </tr>
+  <tr>
+    <td>Leben</td>
+    <td>16.920</td>
+  </tr>
+</table>
 
 
 

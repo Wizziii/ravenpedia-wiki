@@ -24,12 +24,12 @@ const explorerConfig = Component.Explorer({
         const aSort = (a as any).data?.frontmatter?.sort;
         const bSort = (b as any).data?.frontmatter?.sort;
         
-        console.log({
+        /*console.log({
           a: a.displayName,
           aSort,
           b: b.displayName,
           bSort,
-        })
+        })*/
     
         // Sort order: folders first, then files.
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {

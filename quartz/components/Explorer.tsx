@@ -30,7 +30,7 @@ const defaultOptions: Options = {
     return node
   },
   sortFn: (a, b) => {
-    console.log("SORTFN ARGS:", { a, b })
+    /*console.log("SORTFN ARGS:", { a, b })*/
 
     // Sort order: folders first, then files.
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {

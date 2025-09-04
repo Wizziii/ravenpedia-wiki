@@ -1,4 +1,4 @@
 ---
 title: Ausrüstung
-sort: 8
+sort: 9
 ---

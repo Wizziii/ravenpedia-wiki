@@ -32,7 +32,7 @@ Die Geschichte von Wizard101 ist in sogenannte Arcs (Handlungsbogen, ein Abschni
 }}%%
 kanban
   Arc 1
-    [Wizard City]
+    <a href='https://ravenpedia.xyz/Welten/Wizard-City/' target='_blank'>Wizard City</a>
     [Krokotopia]
     [Marleybone]
     [MuHong]
@@ -52,7 +52,6 @@ kanban
     [Lemuria]
     [Novus]
     [Wallaru]
-
 ```
 ### Arc 1 – Die Tragödie von Malistaire
 

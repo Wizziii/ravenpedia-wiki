@@ -1,4 +1,4 @@
 ---
 title: Magieschulen
-sort: 5
+sort: 4
 ---

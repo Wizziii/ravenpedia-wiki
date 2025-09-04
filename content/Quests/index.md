@@ -1,7 +1,7 @@
 ---
 title: Quests
 description: "Wizard101 Quests erklärt: Finde Haupt- & Nebenquests, nutze Questbuch, Questfinder und Questpfeil für schnellen Fortschritt."
-sort: 7
+sort: 5
 ---
 Quests bilden den Kern deiner Reise durch die [[Welten/index|Spirale]], denn viele Bewohnerinnen und Bewohner der verschiedenen Welten benötigen deine Hilfe. Quests bestehen aus unterschiedlichsten Aufträgen, die dir [[Charaktere/NPCs/index|NPCs]] anbieten und die dich von [[Welten/Wizard City/index|Wizard City]] bis zu den abgelegensten Welten führen. 
 ## Was sind Quests?

@@ -1,4 +1,4 @@
 ---
-title: Celestia
+title: Zauber
 sort: 6
 ---

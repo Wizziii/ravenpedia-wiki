@@ -1,5 +1,8 @@
 ---
 title: Grummels Garnison
+tags:
+  - Dungeon
+  - WizardCity
 ---
 [[Welten/Wizard City/Kolossusboulevard/index|Kolossusboulevard]]
 

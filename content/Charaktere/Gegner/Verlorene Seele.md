@@ -1,5 +1,8 @@
 ---
 title: Verlorene Seele
+tags:
+  - Charakter
+  - Gegner
 ---
 Tod Rang 1 
 

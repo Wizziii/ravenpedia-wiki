@@ -1,3 +1,10 @@
+---
+tags:
+  - Charakter
+  - Gegner
+  - Elitegegner
+---
+
 Eis Rang 15 Elite
 
 im Dungeon [[xx]] in der [[Kanalisation]] vom [[Welten/Empyrea/index|Empyrea]]

@@ -1,5 +1,9 @@
 ---
 title: Dunkel-Elfenfee
+tags:
+  - Charakter
+  - Gegner
+  - Elitegegner
 ---
 Leben Rang 1 Elite
 

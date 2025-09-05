@@ -1,0 +1,5 @@
+---
+title: Phantompfad
+tags:
+  - Dungeon
+---

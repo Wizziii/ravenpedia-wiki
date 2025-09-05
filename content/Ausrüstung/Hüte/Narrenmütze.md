@@ -3,4 +3,4 @@ tags:
   - Ausrüstung
   - Hut
 ---
-[[Eloises Schneiderkunst]]
+[[Eloises Merryweather]]

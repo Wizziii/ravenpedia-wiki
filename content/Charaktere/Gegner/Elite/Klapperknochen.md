@@ -1,5 +1,9 @@
 ---
 title: Klapperknochen
+tags:
+  - Charakter
+  - Gegner
+  - Elitegegner
 ---
 Tod Rang 1 Elite
 

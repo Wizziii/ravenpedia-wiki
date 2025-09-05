@@ -1,5 +1,9 @@
 ---
 title: Baron Grummel
+tags:
+  - Charakter
+  - Gegner
+  - Boss
 ---
 Leben Rang 3 Boss
 

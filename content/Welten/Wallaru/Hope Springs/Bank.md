@@ -1,0 +1,5 @@
+---
+title: Bank
+tags:
+  - Dungeon
+---

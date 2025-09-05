@@ -1,3 +1,11 @@
+---
+tags:
+  - Charakter
+  - Gegner
+  - Elitegegner
+---
+
+
 im Dungeon [[xx]] in der [[Kanalisation]] in [[Welten/Empyrea/index|Empyrea]]
 
 Mythos Rang 15 Elite

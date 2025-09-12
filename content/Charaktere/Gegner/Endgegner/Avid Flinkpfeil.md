@@ -9,7 +9,7 @@ tags:
 ---
 zu finden im [[Feuer-Globus-Theater]] in der [[Welten/Wizard City/Feuerkatzenallee/index]] mit einem [[Magmamann]]
 
-er hat folgende Zauber [[Schneeschild]], [[Zauber/Magieschulen/Feuer/Feuerkatze|Feuerkatze]], [[Flammenschlange]], [[Zauber/Magieschulen/Feuer/Sonnenvogel|Sonnenvogel]], [[Zauber/Magieschulen/Mythos/Blutflederer|Blutflederer]], [[Zauber/Magieschulen/Leben/Wichtel|Wichtel]] und [[Einfacher Angriff]]
+er hat folgende Zauber [[Schneeschild]], [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/Zauber/Feuerkatze|Feuerkatze]], [[Flammenschlange]], [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/Zauber/Sonnenvogel|Sonnenvogel]], [[Magieschulen/Primärschulen/Geistschulen/Schule des Myhtos/Zauber/Blutflederer|Blutflederer]], [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/Zauber/Wichtel|Wichtel]] und [[Einfacher Angriff]]
 
 **Besonderheiten**
 
@@ -90,4 +90,4 @@ Musikstücke
 - [[WIizard-City-Titellied]]
 
 Goldkarten
-- [[Zauber/Goldkarten/Eis/Finsterer Schneemann|Finsterer Schneemann]]
+- [[Magieschulen/Primärschulen/Elementarschulen/Schule des Eises/Goldkarten/Finsterer Schneemann|Finsterer Schneemann]]

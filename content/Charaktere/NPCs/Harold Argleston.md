@@ -17,7 +17,7 @@ Er verkauft folgende Goldkarten:
 - [[Sturmschild]]
 - [[Todesschild]]
 - [[Lebensschild]]
-- [[Zauber/Goldkarten/Mythos/Blutflederer|Blutflederer]]
-- [[Zauber/Goldkarten/Tod/Finsterfee|Finsterfee]]
-- [[Zauber/Goldkarten/Feuer/Feuerkatze|Feuerkatze]]
+- [[Magieschulen/Primärschulen/Geistschulen/Schule des Myhtos/Goldkarten/Blutflederer|Blutflederer]]
+- [[Magieschulen/Primärschulen/Geistschulen/Schule des Todes/Goldkarten/Finsterfee|Finsterfee]]
+- [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/Goldkarten/Feuerkatze|Feuerkatze]]
   

@@ -33,7 +33,7 @@ Magieralien sind auf mehreren Wegen zu bekommen: durch Events wie den [[Bestienm
 
 > [!info]- Arc 3 |  Großvater Spinne
 >
->Der dritte Arc umfasst die Geschichte um [[Großvater Spinne]] und führt durch die Welten [[Welten/Polaris/index|Polaris]], [[Welten/Mirage/index|Mirage]] und [[Welten/Empyrea/index|Empyrea]]. Er erzählt die Rückkehr eines der Schöpfer der Spiral, der mit seinen Kindern [[Ratte]], [[Fledermaus]] und [[Skorpion]] über die Welten bringt. Die Endgegner dieser Welten haben jeweils eine hundertprozentige Dropchance auf die entsprechenden Magieralien, sofern die Skala der Weisheit genutzt wird.
+>Der dritte Arc umfasst die Geschichte um [[Großvater Spinne]] und führt durch die Welten [[Welten/Polaris/index|Polaris]], [[Welten/Mirage/index|Mirage]] und [[Welten/Empyrea/index|Empyrea]]. Er erzählt die Rückkehr eines der Schöpfer der Spiral, der mit seinen Kindern [[Ratte]], [[Fledermaus]] und [[Materialien/Magieralien/Skorpion]] über die Welten bringt. Die Endgegner dieser Welten haben jeweils eine hundertprozentige Dropchance auf die entsprechenden Magieralien, sofern die Skala der Weisheit genutzt wird.
 >
 >| Welt | Stufe | Gebiet | Dungeon | Erforderliches Abzeichen |
 >|  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |

@@ -1,4 +1,4 @@
 ---
-title:Quadrat-Juwelen
+title: Quadrat-Juwelen
 sort: 1
 ---

@@ -1,6 +1,8 @@
 ---
 title: Schatten Spenden
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Schatten
+  - Zauber
 ---

@@ -1,3 +1,3 @@
 ---
-title: Lebenszauber
+title: Zauber der Lebenschule
 ---

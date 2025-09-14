@@ -3,7 +3,7 @@ title: Todesschwäche
 tags:
   - Magieschulen
   - Primärschule
-  - Elementarschule
+  - Geistschule
   - Tod
   - Zauber
 ---

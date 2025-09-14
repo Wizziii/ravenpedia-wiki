@@ -1,6 +1,8 @@
 ---
 title: Erneuern
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

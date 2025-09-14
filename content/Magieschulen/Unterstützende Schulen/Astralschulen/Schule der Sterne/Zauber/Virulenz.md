@@ -1,6 +1,8 @@
 ---
 title: Virulenz
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

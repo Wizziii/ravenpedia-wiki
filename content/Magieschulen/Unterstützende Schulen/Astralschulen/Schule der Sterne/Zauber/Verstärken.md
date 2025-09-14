@@ -1,6 +1,8 @@
 ---
 title: Verstärken
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

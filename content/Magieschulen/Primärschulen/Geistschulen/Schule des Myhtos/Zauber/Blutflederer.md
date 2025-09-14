@@ -1,5 +1,9 @@
 ---
+title: Blutflederer
 tags:
-  - Zauber
+  - Magieschulen
+  - Primärschule
+  - Geistschule
   - Mythos
+  - Zauber
 ---

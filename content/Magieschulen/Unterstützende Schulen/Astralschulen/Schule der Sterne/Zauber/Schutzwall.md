@@ -1,6 +1,8 @@
 ---
 title: Schutzwall
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

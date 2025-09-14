@@ -1,6 +1,8 @@
 ---
 title: Schattenpeitsche
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Schatten
+  - Zauber
 ---

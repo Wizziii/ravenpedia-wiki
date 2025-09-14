@@ -3,7 +3,7 @@ title: Mythosschild
 tags:
   - Magieschulen
   - Primärschule
-  - Elementarschule
+  - Geistschule
   - Mythos
   - Zauber
 ---

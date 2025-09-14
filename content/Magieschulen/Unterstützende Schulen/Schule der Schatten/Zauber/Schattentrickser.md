@@ -1,6 +1,8 @@
 ---
 title: Schattentrickser
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Schatten
+  - Zauber
 ---

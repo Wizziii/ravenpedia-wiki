@@ -1,6 +1,8 @@
 ---
 title: Schattenwächter
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Schatten
+  - Zauber
 ---

@@ -1,7 +1,8 @@
 ---
 title: Dunkle Nova
-
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Schatten
+  - Zauber
 ---

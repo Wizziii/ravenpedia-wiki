@@ -1,6 +1,8 @@
 ---
 title: Kreislauf des Lebens
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

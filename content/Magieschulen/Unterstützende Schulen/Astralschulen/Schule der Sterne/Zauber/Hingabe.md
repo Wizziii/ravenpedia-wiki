@@ -1,6 +1,8 @@
 ---
 title: Hingabe
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

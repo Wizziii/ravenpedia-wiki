@@ -3,7 +3,7 @@ title: Todesschild
 tags:
   - Magieschulen
   - Primärschule
-  - Elementarschule
+  - Geistschule
   - Tod
   - Zauber
 ---

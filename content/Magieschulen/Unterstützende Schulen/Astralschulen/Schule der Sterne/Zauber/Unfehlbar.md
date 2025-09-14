@@ -1,6 +1,8 @@
 ---
 title: Unfehlbar
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

@@ -1,6 +1,8 @@
 ---
 title: Berserker
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

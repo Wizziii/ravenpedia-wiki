@@ -1,6 +1,8 @@
 ---
 title: Bestrafung
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

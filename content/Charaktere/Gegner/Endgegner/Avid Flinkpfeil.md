@@ -60,7 +60,7 @@ Reittiere
 - [[Blauer Drache]] (1 Tag)
 
 Haustiere
-- [[Fee]]
+- [[Ausrüstung/Haustiere/Fee]]
 
 Kartenspiele
 - keine

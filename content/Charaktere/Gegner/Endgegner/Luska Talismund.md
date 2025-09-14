@@ -56,7 +56,7 @@ tags:
 |[![](https://static.wikia.nocookie.net/wizard101freak/images/2/25/%28Button%29_Frisur.png/revision/latest/scale-to-width-down/25?cb=20190505152756&path-prefix=de)](https://static.wikia.nocookie.net/wizard101freak/images/2/25/%28Button%29_Frisur.png/revision/latest?cb=20190505152756&path-prefix=de)||
 Zauber
 - [[Rauchwand]]
-- [[Balanceklinge]]
+- [[Magieschulen/Primärschulen/Schule der Balance/Goldkarten/Balanceklinge]]
 - Zauberbann
 - Täuschen
 - Elementarklinge

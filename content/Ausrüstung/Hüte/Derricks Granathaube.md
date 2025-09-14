@@ -2,7 +2,7 @@
 title: Derricks Granathaube
 tags:
   - Ausrüstung
-  - Hüte
+  - Hut
 ---
 [[Derrick Feuersbrunst]]
 

@@ -1,6 +1,9 @@
 ---
 title: Flammenschlange
 tags:
-  - Zauber
+  - Magieschulen
+  - Primärschule
+  - Elementarschule
   - Feuer
+  - Zauber
 ---

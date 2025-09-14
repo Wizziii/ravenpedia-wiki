@@ -1,5 +1,9 @@
 ---
+title: Finsterer Schneemann
 tags:
-  - Zauber
+  - Magieschulen
+  - Primärschule
+  - Elementarschule
   - Eis
+  - Zauber
 ---

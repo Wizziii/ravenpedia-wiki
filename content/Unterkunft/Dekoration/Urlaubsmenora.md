@@ -1,5 +1,5 @@
 ---
-title:
+title: Urlaubsmenora
 tags:
   - Unterkunft
   - Dekoration

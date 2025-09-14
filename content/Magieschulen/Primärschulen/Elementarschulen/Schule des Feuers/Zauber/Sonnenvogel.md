@@ -1,6 +1,9 @@
 ---
 title: Sonnenvogel
 tags:
-  - Zauber
+  - Magieschulen
+  - Primärschule
+  - Elementarschule
   - Feuer
+  - Zauber
 ---

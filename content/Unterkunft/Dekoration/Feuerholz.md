@@ -1,5 +1,5 @@
 ---
-title:
+title: Feuerholz
 tags:
   - Unterkunft
   - Dekoration

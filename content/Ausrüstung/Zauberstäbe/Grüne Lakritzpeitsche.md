@@ -1,7 +1,9 @@
-
-
-
-
+---
+title: Grüne Lakritzpeitsche
+tags:
+  - Ausrüstung
+  - Zauberstab
+---
 aus dem Set: Karamell-Souvenir
 
 folgende Werte: 

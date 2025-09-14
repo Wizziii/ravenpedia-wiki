@@ -87,7 +87,7 @@ Dekoration
 - keine
 
 Musikstücke
-- [[WIizard-City-Titellied]]
+- [[Wizard City-Titellied]]
 
 Goldkarten
 - [[Magieschulen/Primärschulen/Elementarschulen/Schule des Eises/Goldkarten/Finsterer Schneemann|Finsterer Schneemann]]

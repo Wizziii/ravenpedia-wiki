@@ -1,6 +1,8 @@
 ---
 title: Abstrafung
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

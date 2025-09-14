@@ -3,5 +3,5 @@ title: Ausgeglichener Köderfisch
 tags:
   - Angeln
   - Fisch
+  - Balance
 ---
-Zu angeln in [[Welten/Wizard City/Rabenhain/index]]

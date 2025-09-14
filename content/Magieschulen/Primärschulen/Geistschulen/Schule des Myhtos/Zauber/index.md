@@ -1,3 +1,3 @@
 ---
-title: Mythoszauber
+title: Zauber der Mythosschule
 ---

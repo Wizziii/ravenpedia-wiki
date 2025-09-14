@@ -1,6 +1,8 @@
 ---
 title: Rache
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

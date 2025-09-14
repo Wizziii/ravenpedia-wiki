@@ -1,6 +1,8 @@
 ---
 title: Graupelschauer
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

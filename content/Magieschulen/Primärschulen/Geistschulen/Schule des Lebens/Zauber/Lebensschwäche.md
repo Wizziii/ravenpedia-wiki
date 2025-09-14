@@ -3,7 +3,7 @@ title: Lebensschwäche
 tags:
   - Magieschulen
   - Primärschule
-  - Elementarschule
+  - Geistschule
   - Leben
   - Zauber
 ---

@@ -3,7 +3,7 @@ title: Lebensschild
 tags:
   - Magieschulen
   - Primärschule
-  - Elementarschule
+  - Geistschule
   - Leben
   - Zauber
 ---

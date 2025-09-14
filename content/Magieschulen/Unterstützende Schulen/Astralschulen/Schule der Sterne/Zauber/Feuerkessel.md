@@ -1,6 +1,8 @@
 ---
 title: Feuerkessel
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

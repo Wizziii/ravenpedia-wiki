@@ -1,3 +1,3 @@
 ---
-title: Feuerzauber
+title: Zauber der Feuerschule
 ---

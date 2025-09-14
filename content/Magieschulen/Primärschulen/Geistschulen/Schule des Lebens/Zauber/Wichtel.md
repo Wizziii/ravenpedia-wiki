@@ -1,5 +1,9 @@
 ---
+title: Wichtel
 tags:
-  - Zauber
+  - Magieschulen
+  - Primärschule
+  - Geistschule
   - Leben
+  - Zauber
 ---

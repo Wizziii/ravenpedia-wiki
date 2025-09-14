@@ -1,6 +1,8 @@
 ---
 title: Raserei
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

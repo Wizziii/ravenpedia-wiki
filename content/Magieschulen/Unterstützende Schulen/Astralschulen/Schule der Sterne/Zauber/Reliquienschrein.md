@@ -1,6 +1,8 @@
 ---
 title: Reliquienschrein
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

@@ -3,7 +3,7 @@ title: Mythosschwäche
 tags:
   - Magieschulen
   - Primärschule
-  - Elementarschule
+  - Geistschule
   - Mythos
   - Zauber
 ---

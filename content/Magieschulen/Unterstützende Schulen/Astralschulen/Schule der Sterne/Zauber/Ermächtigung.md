@@ -1,6 +1,8 @@
 ---
 title: Ermächtigung
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

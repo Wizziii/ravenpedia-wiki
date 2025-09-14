@@ -1,6 +1,8 @@
 ---
 title: Überzeugung
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

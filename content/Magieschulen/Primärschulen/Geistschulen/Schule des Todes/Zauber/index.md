@@ -1,3 +1,3 @@
 ---
-title: Todeszauber
+title: Zauber der Todesschule
 ---

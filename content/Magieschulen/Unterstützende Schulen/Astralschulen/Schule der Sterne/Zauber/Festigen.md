@@ -1,6 +1,8 @@
 ---
 title: Festigen
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

@@ -1,3 +1,3 @@
 ---
-title: Eiszauber
+title: Zauber der Eisschule
 ---

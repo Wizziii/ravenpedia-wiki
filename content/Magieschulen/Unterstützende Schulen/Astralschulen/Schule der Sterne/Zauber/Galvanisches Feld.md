@@ -1,6 +1,8 @@
 ---
 title: Galvanisches Feld
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

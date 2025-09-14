@@ -1,6 +1,8 @@
 ---
 title: Heilen
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

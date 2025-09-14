@@ -1,6 +1,8 @@
 ---
 title: Vergrößern
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Stern
+  - Zauber
 ---

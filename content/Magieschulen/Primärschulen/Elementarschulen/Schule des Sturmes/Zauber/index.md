@@ -1,3 +1,3 @@
 ---
-title: Sturmzauber
+title: Zauber der Sturmschule
 ---

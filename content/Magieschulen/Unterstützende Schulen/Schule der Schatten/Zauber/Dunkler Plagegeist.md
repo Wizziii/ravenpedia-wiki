@@ -1,6 +1,8 @@
 ---
 title: Dunkler Plagegeist
 tags:
-  - Zauber
+  - Magieschulen
+  - Unterstützungsschule
   - Schatten
+  - Zauber
 ---

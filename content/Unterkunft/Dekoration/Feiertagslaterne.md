@@ -1,5 +1,5 @@
 ---
-title:
+title: Feiertagslaterne
 tags:
   - Unterkunft
   - Dekoration

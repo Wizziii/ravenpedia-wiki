@@ -47,7 +47,7 @@ Wenn du Agavenblätter sammelst oder als Drop bekommst, besteht eine Chance, das
 > [[Lautloser Säbel]]
 > [[Leibwache des Barons]]
 > [[Murdak]]
-> [[Magieschulen/Primärschulen/Schulde der Balance/Goldkarten/Ra]]
+> [[Magieschulen/Primärschulen/Schule der Balance/Goldkarten/Ra]]
 > [[Sandhexe]]
 > [[Schrift des Rätsels]]
 > [[Stratoviper]]

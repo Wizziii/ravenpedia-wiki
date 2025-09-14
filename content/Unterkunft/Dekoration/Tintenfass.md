@@ -1,5 +1,5 @@
 ---
-title:
+title: Tintenfass
 tags:
   - Unterkunft
   - Dekoration

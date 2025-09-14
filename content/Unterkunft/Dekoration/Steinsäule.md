@@ -1,5 +1,5 @@
 ---
-title:
+title: Steinsäule
 tags:
   - Unterkunft
   - Dekoration

@@ -100,7 +100,7 @@ Nach dem Kampf kann man den zweiten Sicherheitshebel umlegen.
 > 
 > Du legst den zweiten Sicherheitshebel um. Die Hälfte ist geschafft!
 
-Direkt im Anschluss an [[Tintenfrisch]] beginnt die Quest [[Fang des Tages]].
+Direkt im Anschluss an [[Tintenfrisch]] beginnt die Quest [[Quests/Fang des Tages]].
 
 Vom Hauptraum aus geht es nun in Raum 5. Dort wartet ein Kampf gegen vier Gegner: zwei [[Schwingenfinn-Schlitzer]] und zwei [[Finnzahn-Marodierer]].
 
@@ -118,7 +118,7 @@ Nach dem Sieg muss der dritte Sicherheitshebel umgelegt.
 >
 > Du legst den dritten Sicherheitshebel um. Einer noch!
 
-Damit ist die Quest [[Fang des Tages]] abgeschlossen und die Quest [[Stromausfall]] beginnt. Im Raum 8 befindet sich ein Rätselraum. In der Mitte des Raumes steht ein Bücherpult.
+Damit ist die Quest [[Quests/Fang des Tages]] abgeschlossen und die Quest [[Stromausfall]] beginnt. Im Raum 8 befindet sich ein Rätselraum. In der Mitte des Raumes steht ein Bücherpult.
 
 > [!info]- Inhalt des Buches
 > 

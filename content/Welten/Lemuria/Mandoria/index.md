@@ -1,3 +1,5 @@
 ---
 title: Mandoria
+tags:
+  - Lemuria
 ---

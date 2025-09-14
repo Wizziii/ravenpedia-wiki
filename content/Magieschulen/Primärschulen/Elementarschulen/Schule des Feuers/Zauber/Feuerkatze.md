@@ -1,6 +1,9 @@
 ---
 title: Feuerkatze
 tags:
-  - Zauber
+  - Magieschulen
+  - Primärschule
+  - Elementarschule
   - Feuer
+  - Zauber
 ---

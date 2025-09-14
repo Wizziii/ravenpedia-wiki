@@ -1,5 +1,5 @@
 ---
-title:
+title: Musikspieler
 tags:
   - Unterkunft
   - Dekoration

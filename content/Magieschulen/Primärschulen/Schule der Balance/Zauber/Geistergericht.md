@@ -1,5 +1,5 @@
 ---
-title: Ausgleichende Gerechtigkeit
+title: Geistergericht
 tags:
   - Magieschulen
   - Primärschule

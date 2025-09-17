@@ -43,7 +43,8 @@ Die Begegnung mit Wasser-Dan passt sich dem Levelbereich der Gruppe an. Der Boss
 >
 > > [!tip]- Zauberstäbe
 >
-> > [!tip]- Unterkunft
+> > [!tip] Unterkunft
+> > - [[Azoth]]
 >
 > > [!tip]- Goldkarten
 > >- [[Azoth]]
@@ -52,6 +53,7 @@ Die Begegnung mit Wasser-Dan passt sich dem Levelbereich der Gruppe an. Der Boss
 > >- [[Teilnahmetrophäe]]
 >
 > > [!tip]- Magieralien
+
 ### Wasser-Dan (Tier 2) | Level 51–65
 
 **Rang:** 10 Boss • **Leben:** 6.140 • **Schule:** [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/index|Leben]] • **Meisterungen:** [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/index|Feuer]] und [[Magieschulen/Primärschulen/Schule der Balance/index|Balance]]

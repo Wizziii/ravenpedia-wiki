@@ -55,3 +55,21 @@ kanban
     [Novus]
     [Wallaru]
 ```
+
+> [!success]- Drops 
+> (Einleitung einfügen)
+> Gold: 
+> > [!tip]- Hüte
+>
+> > [!tip]- Zauberstäbe
+>
+> > [!tip] Unterkunft
+> > - [[Azoth]]
+>
+> > [!tip]- Goldkarten
+> >- [[Azoth]]
+>
+> > [!tip]- Zutaten
+> >- [[Teilnahmetrophäe]]
+>
+> > [!tip]- Magieralien

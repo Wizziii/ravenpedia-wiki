@@ -46,10 +46,10 @@ Die Begegnung mit Wasser-Dan passt sich dem Levelbereich der Gruppe an. Der Boss
 > > [!tip]- Unterkunft
 >
 > > [!tip]- Goldkarten
-> > [[Azoth]]
+> >- [[Azoth]]
 >
 > > [!tip]- Zutaten
-> > [[Teilnahmetrophäe]]
+> >- [[Teilnahmetrophäe]]
 >
 > > [!tip]- Magieralien
 ### Wasser-Dan (Tier 2) | Level 51–65

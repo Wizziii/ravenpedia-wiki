@@ -32,19 +32,33 @@ Die Begegnung mit Wasser-Dan passt sich dem Levelbereich der Gruppe an. Der Boss
 
 **Rang:** 9 Boss • **Leben:** 5.120 • **Schule:** [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/index|Leben]] • **Meisterungen:** [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/index|Feuer]] und [[Magieschulen/Primärschulen/Schule der Balance/index|Balance]]
 
+> [!example]- Wasser-Dans Zauber
+> - [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/Zauber/Wiedergeburt|Wiedergeburt]]
+> - [[Lebensklinge]]
+> - Massen Lebensfallen
+> - Natures's Wrath
+> - [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/Zauber/Seraph|Seraph]]
+> - Earth Walker
+> - [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/Zauber/Zentaur|Zentaur]]
+> - Forest Lord
+> - Geistergericht
+> - [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/Zauber/Nautilus-Beschuss|Nautilus-Beschuss]]
+
 > [!example]- Liste der möglichen Codes
 >
 > 1-5-2-7 • 1-5-7-6 • 1-5-7-7 • 3-4-0-6 • 3-4-7-5 • 3-4-7-6 • 4-7-0-1 • 4-7-3-2 • 4-7-3-6
 
 > [!success]- Drops 
-> (Einleitung einfügen)
-> Gold: 
+> Pro Kampf erhält man 10 Gold. Wenn eine Zauberin oder ein Zauberer die Level-Anforderungen nicht erfüllt, wird nur eine einzige [[Teilnahmetrophäe]] vergeben.
+> 
 > > [!tip]- Hüte
+> > -
 >
 > > [!tip]- Zauberstäbe
+> > -
 >
-> > [!tip] Unterkunft
-> > - [[Azoth]]
+> > [!tip]- Unterkunft
+> > -
 >
 > > [!tip]- Goldkarten
 > >- [[Azoth]]
@@ -53,7 +67,10 @@ Die Begegnung mit Wasser-Dan passt sich dem Levelbereich der Gruppe an. Der Boss
 > >- [[Teilnahmetrophäe]]
 >
 > > [!tip]- Magieralien
-
+> > - [[Materialien/Magieralien/Celestische Retter|Celestische Retter]]
+> > - [[Materialien/Magieralien/Geistergericht|Geistergericht]]
+> > - [[Narrenschiff]]
+> > - [[Materialien/Magieralien/Nautilus-Beschuss|Nautilus-Beschuss]]
 ### Wasser-Dan (Tier 2) | Level 51–65
 
 **Rang:** 10 Boss • **Leben:** 6.140 • **Schule:** [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/index|Leben]] • **Meisterungen:** [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/index|Feuer]] und [[Magieschulen/Primärschulen/Schule der Balance/index|Balance]]
@@ -61,6 +78,29 @@ Die Begegnung mit Wasser-Dan passt sich dem Levelbereich der Gruppe an. Der Boss
 > [!example]- Liste der möglichen Codes
 >
 > 1-5-2-7 • 1-5-7-6 • 1-5-7-7 • 3-4-0-6 • 3-4-7-5 • 3-4-7-6 • 4-7-0-1 • 4-7-3-2 • 4-7-3-6
+
+> [!success]- Drops 
+> 
+> > [!tip]- Hüte
+> > -
+>
+> > [!tip]- Zauberstäbe
+> > -
+>
+> > [!tip]- Unterkunft
+> > -
+>
+> > [!tip]- Goldkarten
+> >- [[Azoth]]
+>
+> > [!tip]- Zutaten
+> >- 
+>
+> > [!tip]- Magieralien
+> > - [[Materialien/Magieralien/Celestische Retter|Celestische Retter]]
+> > - [[Materialien/Magieralien/Geistergericht|Geistergericht]]
+> > - [[Narrenschiff]]
+> > - [[Materialien/Magieralien/Nautilus-Beschuss|Nautilus-Beschuss]]
 ### Wasser-Dan (Tier 3) | Level 66–109
 
 **Rang:** 14 Boss • **Leben:** 10.235 • **Schule:** [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/index|Leben]] • **Meisterungen:** [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/index|Feuer]] und [[Magieschulen/Primärschulen/Schule der Balance/index|Balance]]
@@ -68,6 +108,29 @@ Die Begegnung mit Wasser-Dan passt sich dem Levelbereich der Gruppe an. Der Boss
 > [!example]- Liste der möglichen Codes
 >
 > 1-5-2-7 • 1-5-7-9 • 1-5-7-10 • 3-8-0-6 • 3-8-10-6 • 3-8-10-9 • 4-7-0-10 • 4-7-3-2 • 4-7-3-10
+
+> [!success]- Drops 
+> 
+> > [!tip]- Hüte
+> > -
+>
+> > [!tip]- Zauberstäbe
+> > -
+>
+> > [!tip]- Unterkunft
+> > -
+>
+> > [!tip]- Goldkarten
+> >- [[Azoth]]
+>
+> > [!tip]- Zutaten
+> >- 
+>
+> > [!tip]- Magieralien
+> > - [[Materialien/Magieralien/Celestische Retter|Celestische Retter]]
+> > - [[Materialien/Magieralien/Geistergericht|Geistergericht]]
+> > - [[Narrenschiff]]
+> > - [[Materialien/Magieralien/Nautilus-Beschuss|Nautilus-Beschuss]]
 ### Wasser-Dan (Tier 4) | Level 110–170
 
 **Rang:** 20 Boss • **Leben:** 15.350 • **Schule:** [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/index|Leben]] • **Meisterungen:** [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/index|Feuer]] und [[Magieschulen/Primärschulen/Schule der Balance/index|Balance]]
@@ -75,6 +138,29 @@ Die Begegnung mit Wasser-Dan passt sich dem Levelbereich der Gruppe an. Der Boss
 > [!example]- Liste der möglichen Codes
 >
 > 1-5-2-7 • 1-5-7-10 • 1-5-7-11 • 3-8-0-6 • 3-8-10-6 • 3-8-10-9 • 4-7-0-3 • 4-7-0-11 • 4-7-3-2 • 4-7-3-11
+
+> [!success]- Drops 
+> 
+> > [!tip]- Hüte
+> > -
+>
+> > [!tip]- Zauberstäbe
+> > -
+>
+> > [!tip]- Unterkunft
+> > -
+>
+> > [!tip]- Goldkarten
+> >- [[Azoth]]
+>
+> > [!tip]- Zutaten
+> >- 
+>
+> > [!tip]- Magieralien
+> > - [[Materialien/Magieralien/Celestische Retter|Celestische Retter]]
+> > - [[Materialien/Magieralien/Geistergericht|Geistergericht]]
+> > - [[Narrenschiff]]
+> > - [[Materialien/Magieralien/Nautilus-Beschuss|Nautilus-Beschuss]]
 ## Monstrology
 
 Um sein Anima zu entziehen benötigt man den Monsterlehren-Zauber [[Untoten entziehen]]. Für seine Animus-Extraktion braucht man 20 Animus und 1.000 Gold. Außerdem kann man ihn als Hausgast beschwören, was 30 Animus und 2.500 Gold kostet. Vertreiben lässt er sich nicht.

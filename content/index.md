@@ -19,39 +19,29 @@ Hier findest du alles, was dir den Einstieg in Wizard101 erleichtert. Von den er
 Die Geschichte von Wizard101 ist in sogenannte Arcs (Handlungsbogen, ein Abschnitt einer Geschichte) unterteilt. Jeder Arc umfasst mehrere Welten, die zusammen eine größere Handlung ergeben. So kannst du die Reise der Spirale besser einordnen:
 
 ```mermaid
-%%{init: { 
-  "theme": "base",
-  "themeVariables": {
-    "background": "#ffffff",
-    "primaryColor": "#ffffff",
-    "primaryTextColor": "#000000",
-    "tertiaryColor": "#000000",
-    "textColor": "#000000",
-    "lineColor": "#000000",
-  }
-}}%%
 kanban
-  Arc 1
-    <a href='https://ravenpedia.xyz/Welten/Wizard-City/' target='_blank'>Wizard City</a>
-    <a href='https://ravenpedia.xyz/Welten/Krokotopia/' target='_blank'>Krokotopia</a>
-    <a href='https://ravenpedia.xyz/Welten/Marleybone/' target='_blank'>Marleybone</a>
-    <a href='https://ravenpedia.xyz/Welten/MuHong/' target='_blank'>MuHong</a>
-    <a href='https://ravenpedia.xyz/Welten/Drachenfels/' target='_blank'>Drachenfels</a>
-  Arc 2
-    <a href='https://ravenpedia.xyz/Welten/Celestia/' target='_blank'>Celestia</a>
-    <a href='https://ravenpedia.xyz/Welten/Zafaria/' target='_blank'>Zafaria</a>
-    <a href='https://ravenpedia.xyz/Welten/Avalon/' target='_blank'>Avalon</a>
-    <a href='https://ravenpedia.xyz/Welten/Azteka/' target='_blank'>Azteka</a>
-    <a href='https://ravenpedia.xyz/Welten/Khrysalis/' target='_blank'>Khrysalis</a>
-  Arc 3
-    <a href='https://ravenpedia.xyz/Welten/Polaris/' target='_blank'>Polaris</a>
-    <a href='https://ravenpedia.xyz/Welten/Mirage/' target='_blank'>Mirage</a>
-    <a href='https://ravenpedia.xyz/Welten/Empyrea/' target='_blank'>Empyrea</a>
-  Arc 4
-	<a href='https://ravenpedia.xyz/Welten/Karamell/' target='_blank'>Karamell</a>
-    <a href='https://ravenpedia.xyz/Welten/Lemuria/' target='_blank'>Lemuria</a>
-    <a href='https://ravenpedia.xyz/Welten/Novus/' target='_blank'>Novus</a>
-    <a href='https://ravenpedia.xyz/Welten/Wallaru/' target='_blank'>Wallaru</a>
+<h4>Arc 1</h4>
+	<a href="https://ravenpedia.xyz/Welten/Wizard-City">Wizard City</a>
+    <a href="https://ravenpedia.xyz/Welten/Krokotopia">Krokotopia</a>
+    <a href="https://ravenpedia.xyz/Welten/Marleybone">Marleybone</a>
+    <a href="https://ravenpedia.xyz/Welten/MuHong">MuHong</a>
+    <a href="https://ravenpedia.xyz/Welten/Drachenfels">Drachenfels</a>
+<h4>Arc 2</h4>
+	<a href="https://ravenpedia.xyz/Welten/Celestia">Celestia</a>
+    <a href="https://ravenpedia.xyz/Welten/Zafaria">Zafaria</a>
+    <a href="https://ravenpedia.xyz/Welten/Avalon">Avalon</a>
+    <a href="https://ravenpedia.xyz/Welten/Azteka">Azteka</a>
+    <a href="https://ravenpedia.xyz/Welten/Khrysalis">Khrysalis</a>
+<h4>Arc 3</h4>
+	<a href="https://ravenpedia.xyz/Welten/Polaris">Polaris</a>
+	<a href="https://ravenpedia.xyz/Welten/Arkanum">Arkanum</a>
+    <a href="https://ravenpedia.xyz/Welten/Mirage">Mirage</a>
+    <a href="https://ravenpedia.xyz/Welten/Empyrea">Empyrea</a>
+<h4>Arc 4</h4>
+	<a href="https://ravenpedia.xyz/Welten/Karamell">Karamell</a>
+    <a href="https://ravenpedia.xyz/Welten/Lemuria">Lemuria</a>
+    <a href="https://ravenpedia.xyz/Welten/Novus">Novus</a>
+    <a href="https://ravenpedia.xyz/Welten/Wallaru">Wallaru</a>
 ```
 ### Arc 1 – Die Tragödie von Malistaire
 
@@ -70,23 +60,12 @@ Nach den Erschütterungen durch Großvater Spinne richten sich neue Fragen an di
 Neben den Hauptwelten gibt es Nebenwelten und -gebiete. Sie sind nicht Teil der großen Handlungsbögen, bieten aber zusätzliche Quests, Dungeons und Ausrüstung.
 
 ```mermaid
-%%{init: { 
-  "theme": "base",
-  "themeVariables": {
-    "background": "#ffffff",
-    "primaryColor": "#ffffff",
-    "primaryTextColor": "#000000",
-    "tertiaryColor": "#000000",
-    "textColor": "#000000",
-    "lineColor": "#000000",
-  }
-}}%%
 kanban
-  Nebenwelten
-    <a href='https://ravenpedia.xyz/Welten/Grizzleheim/' target='_blank'>Grizzleheim</a>
-    <a href='https://ravenpedia.xyz/Welten/Wysteria/' target='_blank'>Wysteria</a>
-    <a href='https://ravenpedia.xyz/Welten/Wysteria/' target='_blank'>Wysteria</a>
-  Nebengebiete
-
-  Saison-Events
+<h4>Nebenwelten</h4>
+	<a href="https://ravenpedia.xyz/Welten/Grizzleheim">Grizzleheim</a>
+    <a href="https://ravenpedia.xyz/Welten/Wysteria">Wysteria</a>
+<h4>Nebengebiete</h4>
+	<a href="https://ravenpedia.xyz/Welten/Wizard-City/Zyklopenweg/Aquila">Aquila</a>
+	<a href="https://ravenpedia.xyz/Welten/Wizard-City/Schattenbruch/Darkmoor">Darkmoor</a>
+	<a href="https://ravenpedia.xyz/Welten/Wizard-City/Golemturm/Die-Katakomben">Die Katakomben</a>
 ```

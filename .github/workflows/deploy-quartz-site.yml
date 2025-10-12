@@ -32,6 +32,11 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
+      # --- DAS IST UNSER WICHTIGER ZUSATZSCHRITT ---
+      - name: Split Sitemap
+        run: node ./split-sitemap.mjs
+      # ----------------------------------------------
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

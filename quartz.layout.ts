@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
         links: {
             "Impressum": "/Impressum",
             "Datenschutz": "/Datenschutz",
-            "Discord-Community": "https://discord.gg/9VeHUXx8",
+            "Discord-Community": "https://discord.gg/ZZmga2R3qY",
         },
     }),
 }

@@ -1,10 +1,11 @@
-Christian Kretschmer  
-c/o Ragdrasil UG (haftungsbeschränkt) i.G.  
+Ravenpedia  
+c/o Ragdrasil UG (haftungsbeschränkt) 
+Christian Kretschmer
 Kipsdorferstraße 110  
 01309 Dresden
 
 **Kontakt**  
-E‑Mail: hey@ravenpedia.xyz
+E‑Mail: [hey@ravenpedia.xyz](mailto:hey@ravenpedia.xyz)
 
 **Projektbeschreibung**  
 Nicht‑kommerzielles, ehrenamtlich betriebenes Community‑Projekt. Dieses Wiki dient als zentrale Sammlung von Guides, Infos und Ressourcen zum Videospiel Wizard101. Es besteht keine offizielle Verbindung zu den Rechteinhabern des Spiels.

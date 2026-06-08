@@ -3,7 +3,7 @@ Christian Kretschmer
 c/o Ragdrasil UG (haftungsbeschränkt)  
 Kipsdorferstraße 110  
 01309 Dresden  
-E-Mail: hey@ravenpedia.xyz  
+E-Mail: [hey@ravenpedia.xyz](mailto:hey@ravenpedia.xyz)
 
 **Erhebung und Speicherung personenbezogener Daten**  
 Beim Aufrufen dieser Website werden automatisch Informationen durch den Hosting-Provider erfasst und in Logfiles gespeichert. Dazu gehören:

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Blix Hagelkorn — Professor der Sturmschule
 tags:
   - Charakter
   - NPC

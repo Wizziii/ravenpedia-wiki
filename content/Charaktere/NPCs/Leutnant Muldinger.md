@@ -1,5 +1,5 @@
 ---
-title: Leutnant Muldinger
+title: Leutnant Muldinger — Wizard City Stadtwache
 tags:
   - Charakter
   - NPC

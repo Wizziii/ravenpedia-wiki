@@ -1,5 +1,5 @@
 ---
-title: Elmer Weidegrund
+title: Elmer Weidegrund — Zutatenhändler
 tags:
   - Charakter
   - NPC

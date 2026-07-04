@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "null",
     },
     locale: "de-DE",
     baseUrl: "ravenpedia.xyz",

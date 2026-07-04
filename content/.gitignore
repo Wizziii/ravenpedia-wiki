@@ -6,3 +6,9 @@
 
 
 /.smart-env/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

@@ -1,8 +1,8 @@
 **Verantwortliche Stelle**  
 Christian Kretschmer  
 c/o Ragdrasil UG (haftungsbeschränkt)  
-Kipsdorferstraße 110  
-01309 Dresden  
+Kipsdorfer Straße 110  
+01277 Dresden  
 E-Mail: [hey@ravenpedia.xyz](mailto:hey@ravenpedia.xyz)
 
 **Erhebung und Speicherung personenbezogener Daten**  

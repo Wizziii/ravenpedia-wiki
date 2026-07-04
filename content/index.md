@@ -1,6 +1,7 @@
 ---
-title: Ravenpedia
+title: Ravenpedia – Das deutsche Community-Wiki zu Wizard101
 description: Ravenpedia ist das deutsche Community-Wiki zu Wizard101. Entdecke Welten, Zauber, Quests, Guides und weitere Geheimnisse der Spirale.
+date: 2026-06-13
 ---
 Ravenpedia ist ein Community-Projekt zum Aufbau einer deutschsprachigen Wissensdatenbank und Guidesammlung rund um [**Wizard101**](https://eu.wizard101.com/de_DE/game). Als Community-Wiki wächst Ravenpedia stetig weiter und bündelt alle wichtigen Infos zum Massen-Mehrspieler-Online-Rollenspiel Wizard101 von [KingsIsle Entertainment](https://www.kingsisle.com/) – von Quests und Zaubern über Ausrüstung bis hin zu den verschiedenen Welten.
 ## Grundlagen
@@ -42,6 +43,9 @@ kanban
     <a href="https://ravenpedia.xyz/Welten/Lemuria">Lemuria</a>
     <a href="https://ravenpedia.xyz/Welten/Novus">Novus</a>
     <a href="https://ravenpedia.xyz/Welten/Wallaru">Wallaru</a>
+    <a href="https://ravenpedia.xyz/Welten/Selenopolis">Selenopolis</a>
+<h4>Arc 5</h4>
+	<a href="https://ravenpedia.xyz/Welten/Düstermoor">Düstermoor</a>
 ```
 ### Arc 1 – Die Tragödie von Malistaire
 
@@ -55,6 +59,9 @@ Mit dem Fall Morganthes scheint die Spirale kurzzeitig zur Ruhe zu kommen, doch 
 ### Arc 4 – Das Rätsel des Daseins
 
 Nach den Erschütterungen durch Großvater Spinne richten sich neue Fragen an die Natur der Spirale selbst. Deine Suche beginnt im süßen, doch trügerischen Land [[Welten/Karamell/index|Karamell]], führt dich in die zersplitterte Welt [[Welten/Lemuria/index|Lemuria]] und weiter nach [[Welten/Novus/index|Novus]], wo Realität und Vorstellung verschwimmen. Schließlich erreichst du [[Welten/Wallaru/index|Wallaru]], eine ferne Welt, die Antworten auf die Zukunft der Spirale verspricht. Dieser Arc erzählt von Identität, Ordnung und Chaos – und markiert den Beginn einer neuen Ära der Spirale.
+### Arc 5 – Kommt bald
+
+Hier folgt bald eine Beschreibung.
 ### Nebenwelten und -gebiete
 
 Neben den Hauptwelten gibt es Nebenwelten und -gebiete. Sie sind nicht Teil der großen Handlungsbögen, bieten aber zusätzliche Quests, Dungeons und Ausrüstung.
@@ -66,6 +73,6 @@ kanban
     <a href="https://ravenpedia.xyz/Welten/Wysteria">Wysteria</a>
 <h4>Nebengebiete</h4>
 	<a href="https://ravenpedia.xyz/Welten/Wizard-City/Zyklopenweg/Aquila">Aquila</a>
-	<a href="https://ravenpedia.xyz/Welten/Wizard-City/Schattenbruch/Darkmoor">Darkmoor</a>
+	<a href="https://ravenpedia.xyz/Welten/Wizard-City/Schattenbruch/Schloss-Düstermoor">Schloss Düstermoor</a>
 	<a href="https://ravenpedia.xyz/Welten/Wizard-City/Golemturm/Die-Katakomben">Die Katakomben</a>
 ```

@@ -1,5 +1,5 @@
 ---
-title: Ravenpedia – Das deutsche Community-Wiki zu Wizard101
+title: Ravenpedia – Das deutsche Wizard101 Community-Wiki
 description: Ravenpedia ist das deutsche Community-Wiki zu Wizard101. Entdecke Welten, Zauber, Quests, Guides und weitere Geheimnisse der Spirale.
 date: 2026-06-13
 ---

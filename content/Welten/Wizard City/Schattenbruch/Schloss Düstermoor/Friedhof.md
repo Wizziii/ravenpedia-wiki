@@ -4,7 +4,7 @@ tags:
   - Dungeon
   - WizardCity
 ---
-![🪦](https://discord.com/assets/e4ab70bde6ec5279.svg) Teil 3: (Friedhof)![🪦](https://discord.com/assets/e4ab70bde6ec5279.svg)
+![🪦|38](https://discord.com/assets/e4ab70bde6ec5279.svg) Teil 3: (Friedhof)![🪦](https://discord.com/assets/e4ab70bde6ec5279.svg)
     
     1. Kampf: ![🧟‍♂️](https://discord.com/assets/e1e0526807379182.svg) Ghul![🧟](https://discord.com/assets/db313836abb116ba.svg) - _Möglicher Drop: Dolch_,
     

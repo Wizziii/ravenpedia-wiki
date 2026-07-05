@@ -4,28 +4,26 @@ discription:
 sort: 1
 date: 2026-07-05
 ---
-Wizard101 ist ein rundenbasiertes MMORPG von KingsIsle Entertainment. Du schlüpfst in die Rolle einer jungen Zauberin/eines jungen Zauberers an der Rabenheim-Akademie der magischen Künste, baust dir ein eigenes Kartendeck aus Zaubern auf und reist durch die Welten der Spirale, um das Universum vor dunklen Bedrohungen zu bewahren.
+Wizard101 ist ein rundenbasiertes MMORPG von [KingsIsle Entertainment](https://www.kingsisle.com/). Du schlüpfst in die Rolle einer jungen Zauberin/eines jungen Zauberers an der Rabenheim-Akademie der magischen Künste, baust dir ein eigenes Kartendeck aus Zaubern auf und reist durch die Welten der [[Welten/index|Spirale]], um das Universum vor dunklen Bedrohungen zu bewahren.
 # Die Schulen der magischen Künste
 Zu Beginn des Spiels wählst du eine von sieben Hauptschulen. Deine Schule bestimmt deinen Spielstil, deine Stärken und deine Zauber:
 
-| Schule                                                                          | Icon | Beschreibung |
-| ------------------------------------------------------------------------------- | ---- | ------------ |
-| [[Magieschulen/Primärschulen/Elementarschulen/Schule des Eises/index\|Eis]]     |      |              |
-| [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/index\|Feuer]]  |      |              |
-| [[Magieschulen/Primärschulen/Elementarschulen/Schule des Sturmes/index\|Sturm]] |      |              |
-| [[Magieschulen/Primärschulen/Geistschulen/Schule des Myhtos/index\|Mythos]]     |      |              |
-| [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/index\|Leben]]      |      |              |
-| [[Magieschulen/Primärschulen/Geistschulen/Schule des Todes/index\|Tod]]         |      |              |
-| [[Magieschulen/Primärschulen/Schule der Balance/index\|Balance]]                |      |              |
-
+| Schule                                                                          | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Magieschulen/Primärschulen/Elementarschulen/Schule des Eises/index\|Eis]]     | Eiszaubernde sind dank ihrer enormen Lebenspunkte und hohen Verteidigung extrem widerstandsfähige Kämpfende, die nur sehr schwer zu besiegen sind. Im Gruppenspiel nutzen sie ihre defensiven Zauber und die Fähigkeit, gegnerische Ziele zu verspotten, um gezielt Angriffe auf sich zu ziehen und so das Team zu schützen.                                                                            |
+| [[Magieschulen/Primärschulen/Elementarschulen/Schule des Feuers/index\|Feuer]]  | Die Feuerschule lehrt kontinuierlichen Schaden über Zeit, der anfangs gering ausfällt, sich aber rasch zu einer enormen Zerstörungskraft aufbaut. Zudem können Feuerzaubernde gegnerische Ziele für eine Runde betäuben und verfügen über moderate Selbstheilung, um die Zeit bis zur vollen Schadensentfaltung zu überbrücken.                                                                         |
+| [[Magieschulen/Primärschulen/Elementarschulen/Schule des Sturmes/index\|Sturm]] | Die Sturmschule fokussiert sich auf enorme Zerstörungskraft, wodurch Sturmzaubernde schon früh extremen Schaden austeilen, dies jedoch mit geringerer Treffsicherheit und den wenigsten Basis-Lebenspunkten aller Schulen bezahlen. Taktisch können sie zudem eingreifen, indem sie Schadensverstärkungen von gegnerischen Zielen entfernen oder Schadensreduktionszauber auf Teammitgliedern aufheben. |
+| [[Magieschulen/Primärschulen/Geistschulen/Schule des Myhtos/index\|Mythos]]     | Die Schule der Mythen ist auf die Beschwörung spezialisiert und lehrt Mythenzaubernde, verschiedene Diener herbeizurufen, zu heilen und zu stärken, während ihre eigenen Angriffe über moderate Schadens- und Trefferwerte verfügen. Taktisch glänzen sie zudem besonders dadurch, dass sie gestapelte Verteidigungszauber gegnerischer Ziele mühelos durchbrechen und entfernen können.                |
+| [[Magieschulen/Primärschulen/Geistschulen/Schule des Lebens/index\|Leben]]      | Die Schule des Lebens ist vollkommen auf die Heilung spezialisiert, wodurch Lebenszaubernde unübertroffen darin sind, sowohl sich selbst als auch andere Gruppenmitglieder zu heilen. Ergänzt wird ihre unverzichtbare Rolle im Team durch den exklusiven Zugang zu Gruppenheilzaubern sowie durch extrem treffsichere Angriffszauber mit geringem bis mittlerem Schaden.                               |
+| [[Magieschulen/Primärschulen/Geistschulen/Schule des Todes/index\|Tod]]         | Die Schule des Todes lehrt die Akzeptanz der Vergänglichkeit. Ihre größte Stärke ist der Lebensentzug: Todeszaubernde fügen gegnerischen Zielen Schaden zu und heilen sich im selben Zug um die Hälfte des verursachten Wertes. Das macht sie im Kampf enorm ausdauernd und unabhängig.                                                                                                                 |
+| [[Magieschulen/Primärschulen/Schule der Balance/index\|Balance]]                | Die Schule der Balance bildet vielseitige Zaubernde aus, die dank ihrer breiten Fähigkeiten zur Selbstheilung und zur Überwindung von Resistenzen sowohl alleine als auch im Team sehr gut zurechtkommen. Ihre größte Stärke liegt jedoch im Gruppenspiel, wo sie ihr volles Potenzial entfalten, indem sie sich und ihre Gruppenmitglieder effektiv stärken.                                           |
 > [!info] 
 > Später im Spiel kommen noch Astralschulen (Sonne, Mond, Stern) und Schattenmagie hinzu, die deine bestehenden Zauber verstärken oder verändern.
 # Grundressourcen und Charakterentwicklung
-Um in der Spirale zu bestehen, musst du deine Kernressourcen verwalten und deinen Charakter durch Levelaufstiege weiterentwickeln:
+Um in der [[Welten/index|Spirale]] zu bestehen, musst du deine Ressourcen verwalten und deinen Charakter durch Levelaufstiege weiterentwickeln:
 ## Lebenspunkte
 Die Lebenspunkte (oft als LP abgekürzt) repräsentieren die Vitalität und Ausdauer einer Zauberin oder eines Zauberers, Begleiters oder einer Kreatur. Sie sind der wichtigste Statuswert im Spiel, da ein Absinken auf 0 zur Niederlage im Kampf führt.
-
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+<div style="display: flex; gap: 0px; align-items: flex-start;">
   <div style="flex-shrink: 0; width: 200px;">
 
 ![[Pasted image 20260705154644.png]]
@@ -34,205 +32,27 @@ Die Lebenspunkte (oft als LP abgekürzt) repräsentieren die Vitalität und Ausd
   
   <div>
 
-Die Lebenspunkte (oft als LP abgekürzt) repräsentieren die Vitalität und Ausdauer einer Zauberin oder eines Zauberers, Begleiters oder einer Kreatur. Sie sind der wichtigste Statuswert im Spiel, da ein Absinken auf 0 zur Niederlage im Kampf führt.
+Am linken unteren Bildschirmrand werden durchgehend die eigenen Lebenspunkte in einer großen Kugel angezeigt. In der Mitte der Kugel steht der aktuelle Wert im Verhältnis zum Maximalwert.
 
   </div>
 </div>
-
-
-
-![[Pasted image 20260705154644.png]]
-
-Am linken unteren Bildschirmrand werden durchgehend die eigenen Lebenspunkte in einer großen Kugel angezeigt. In der Mitte der Kugel steht der aktuelle Wert im Verhältnis zum Maximalwert.
-
-Im Kampf werden die Lebenspunkte von Verbündeten und Gegnern als rote Zahl unter ihrer Namensanzeige in einem rechteckigen 
-
-
-| ![[Pasted image 20260705154644.png]] | ![[Pasted image 20260705154737.png]] | ![[Pasted image 20260705154806.png]] |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-
-
-
-
-
-
-
-
-### Erfahrungspunkte
-
-https://wiki.wizard101central.com/wiki/Basic:Training_Points
-
-| Level | Erfahrung auf <br>nächstes Level | Erfahrung<br>Gesamt | Erlangte <br>Trainingspunkte | Trainingspunkte<br>Gesamt |
-| :---: | :------------------------------: | :-----------------: | :--------------------------: | :-----------------------: |
-|   1   |                45                |         45          |              0               |             0             |
-|   2   |               115                |         160         |              0               |             0             |
-|   3   |               205                |         365         |              0               |             0             |
-|   4   |               340                |         705         |              1               |             1             |
-|   5   |               495                |        1,200        |              0               |             1             |
-|   6   |               670                |        1,870        |              0               |             1             |
-|   7   |               875                |        2,745        |              0               |             1             |
-|   8   |              1,160               |        3,905        |              1               |             2             |
-|   9   |              1,400               |        5,305        |              0               |             2             |
-|  10   |              1,665               |        6,970        |              0               |             2             |
-|  11   |              1,950               |        8,920        |              0               |             2             |
-|  12   |              2,255               |       11,175        |              1               |             3             |
-|  13   |              2,580               |       13,755        |              0               |             3             |
-|  14   |              2,925               |       16,680        |              0               |             3             |
-|  15   |              3,520               |       20,200        |              0               |             3             |
-|  16   |              3,925               |       24,125        |              1               |             4             |
-|  17   |              4,350               |       28,475        |              0               |             4             |
-|  18   |              4,800               |       33,275        |              0               |             4             |
-|  19   |              5,270               |       38,545        |              0               |             4             |
-|  20   |              5,760               |       44,305        |              1               |             5             |
-|  21   |              6,270               |       50,575        |              0               |             5             |
-|  22   |              6,900               |       57,475        |              0               |             5             |
-|  23   |              7,640               |       65,115        |              0               |             5             |
-|  24   |              8,040               |       73,155        |              0               |             5             |
-|  25   |              8,640               |       81,795        |              1               |             6             |
-|  26   |              9,265               |       91,060        |              0               |             6             |
-|  27   |              9,905               |       100,965       |              0               |             6             |
-|  28   |              10,575              |       111,540       |              0               |             6             |
-|  29   |              12,055              |       123,595       |              0               |             6             |
-|  30   |              12,895              |       136,490       |              1               |             7             |
-|  31   |              13,820              |       150,310       |              0               |             7             |
-|  32   |              14,825              |       165,135       |              0               |             7             |
-|  33   |              15,920              |       181,055       |              0               |             7             |
-|  34   |              17,055              |       198,110       |              0               |             7             |
-|  35   |              18,220              |       216,330       |              1               |             8             |
-|  36   |              19,760              |       236,090       |              0               |             8             |
-|  37   |              21,005              |       257,095       |              0               |             8             |
-|  38   |              22,290              |       279,385       |              0               |             8             |
-|  39   |              23,610              |       302,995       |              0               |             8             |
-|  40   |              24,965              |       327,960       |              1               |             9             |
-|  41   |              26,350              |       354,310       |              0               |             9             |
-|  42   |              27,775              |       382,085       |              0               |             9             |
-|  43   |              31,085              |       413,170       |              0               |             9             |
-|  44   |              32,775              |       445,945       |              0               |             9             |
-|  45   |              34,510              |       480,455       |              1               |            10             |
-|  46   |              36,290              |       516,745       |              0               |            10             |
-|  47   |              38,110              |       554,855       |              0               |            10             |
-|  48   |              39,975              |       594,830       |              0               |            10             |
-|  49   |              41,880              |       636,710       |              0               |            10             |
-|  50   |              44,600              |       681,310       |              1               |            11             |
-|  51   |              46,290              |       727,600       |              0               |            11             |
-|  52   |              48,995              |       776,595       |              0               |            11             |
-|  53   |              51,820              |       828,415       |              0               |            11             |
-|  54   |              54,775              |       883,190       |              0               |            11             |
-|  55   |              57,860              |       941,050       |              1               |            12             |
-|  56   |              61,080              |      1,002,130      |              0               |            12             |
-|  57   |              64,440              |      1,066,570      |              0               |            12             |
-|  58   |              67,940              |      1,134,510      |              0               |            12             |
-|  59   |              71,580              |      1,206,090      |              0               |            12             |
-|  60   |              75,370              |      1,281,460      |              1               |            13             |
-|  61   |              79,305              |      1,360,765      |              0               |            13             |
-|  62   |              83,395              |      1,444,160      |              0               |            13             |
-|  63   |              87,640              |      1,531,800      |              0               |            13             |
-|  64   |              92,035              |      1,623,835      |              0               |            13             |
-|  65   |              96,590              |      1,720,425      |              1               |            14             |
-|  66   |             101,305              |      1,821,730      |              0               |            14             |
-|  67   |             106,180              |      1,927,910      |              0               |            14             |
-|  68   |             111,215              |      2,039,125      |              0               |            14             |
-|  69   |             116,410              |      2,155,535      |              0               |            14             |
-|  70   |             183,875              |      2,339,410      |              1               |            15             |
-|  71   |             198,130              |      2,537,540      |              0               |            15             |
-|  72   |             213,355              |      2,750,895      |              0               |            15             |
-|  73   |             229,615              |      2,980,510      |              0               |            15             |
-|  74   |             246,960              |      3,227,470      |              0               |            15             |
-|  75   |             265,455              |      3,492,925      |              1               |            16             |
-|  76   |             285,160              |      3,778,085      |              0               |            16             |
-|  77   |             306,145              |      4,084,230      |              0               |            16             |
-|  78   |             328,470              |      4,412,700      |              0               |            16             |
-|  79   |             352,210              |      4,764,910      |              0               |            16             |
-|  80   |             377,430              |      5,142,340      |              1               |            17             |
-|  81   |             404,210              |      5,546,550      |              0               |            17             |
-|  82   |             432,630              |      5,979,180      |              0               |            17             |
-|  83   |             462,760              |      6,441,940      |              0               |            17             |
-|  84   |             494,685              |      6,936,625      |              0               |            17             |
-|  85   |             528,490              |      7,465,115      |              1               |            18             |
-|  86   |             564,260              |      8,029,375      |              0               |            18             |
-|  87   |             602,075              |      8,631,450      |              0               |            18             |
-|  88   |             642,035              |      9,273,485      |              0               |            18             |
-|  89   |             684,225              |      9,957,710      |              0               |            18             |
-|  90   |             728,735              |     10,686,445      |              1               |            19             |
-|  91   |             775,655              |     11,462,100      |              0               |            19             |
-|  92   |             825,105              |     12,287,205      |              0               |            19             |
-|  93   |             877,155              |     13,164,360      |              0               |            19             |
-|  94   |             931,915              |     14,096,275      |              0               |            19             |
-|  95   |             989,475              |     15,085,750      |              1               |            20             |
-|  96   |            1,049,945             |     16,135,695      |              0               |            20             |
-|  97   |            1,113,415             |     17,249,110      |              0               |            20             |
-|  98   |            1,179,990             |     18,429,100      |              0               |            20             |
-|  99   |            1,249,765             |     19,678,865      |              0               |            20             |
-|  100  |            1,322,845             |     21,001,710      |              1               |            21             |
-|  101  |            1,341,495             |     22,343,205      |              0               |            21             |
-|  102  |            1,413,420             |     23,756,625      |              0               |            21             |
-|  103  |            1,488,215             |     25,244,840      |              0               |            21             |
-|  104  |            1,565,930             |     26,810,770      |              0               |            21             |
-|  105  |            1,646,605             |     28,457,375      |              1               |            22             |
-|  106  |            1,730,285             |     30,187,660      |              0               |            22             |
-|  107  |            1,817,000             |     32,004,660      |              0               |            22             |
-|  108  |            1,906,790             |     33,911,450      |              0               |            22             |
-|  109  |            1,999,670             |     35,911,120      |              0               |            22             |
-|  110  |            2,500,000             |     38,411,120      |              1               |            23             |
-|  111  |            2,500,000             |     40,911,120      |              0               |            23             |
-|  112  |            2,500,000             |     43,411,120      |              0               |            23             |
-|  113  |            2,500,000             |     45,911,120      |              0               |            23             |
-|  114  |            2,500,000             |     48,411,120      |              0               |            23             |
-|  115  |            2,500,000             |     50,911,120      |              1               |            24             |
-|  116  |            2,500,000             |     53,411,120      |              0               |            24             |
-|  117  |            2,500,000             |     55,911,120      |              0               |            24             |
-|  118  |            2,500,000             |     58,411,120      |              0               |            24             |
-|  119  |            2,500,000             |     60,911,120      |              0               |            24             |
-|  120  |            2,500,000             |     63,411,120      |              1               |            25             |
-|  121  |            2,500,000             |     65,911,120      |              0               |            25             |
-|  122  |            2,500,000             |     68,411,120      |              0               |            25             |
-|  123  |            2,500,000             |     70,911,120      |              0               |            25             |
-|  124  |            2,500,000             |     73,411,120      |              0               |            25             |
-|  125  |            2,500,000             |     75,911,120      |              1               |            26             |
-|  126  |            2,500,000             |     78,411,120      |              0               |            26             |
-|  127  |            2,500,000             |     80,911,120      |              0               |            26             |
-|  128  |            2,500,000             |     83,411,120      |              0               |            26             |
-|  129  |            2,500,000             |     85,911,120      |              0               |            26             |
-|  130  |            2,500,000             |     88,411,120      |              1               |            27             |
-|  131  |            1,250,000             |     89,661,120      |              0               |            27             |
-|  132  |            1,250,000             |     90,911,120      |              0               |            27             |
-|  133  |            1,250,000             |     92,161,120      |              0               |            27             |
-|  134  |            1,250,000             |     93,411,120      |              0               |            27             |
-|  135  |            1,250,000             |     94,661,120      |              1               |            28             |
-|  136  |            1,250,000             |     95,911,120      |              0               |            28             |
-|  137  |            1,250,000             |     97,161,120      |              0               |            28             |
-|  138  |            1,250,000             |     98,411,120      |              0               |            28             |
-|  139  |            1,250,000             |     99,661,120      |              0               |            28             |
-|  140  |            1,250,000             |     100,911,120     |              1               |            29             |
-|  141  |            1,250,000             |     102,161,120     |              0               |            29             |
-|  142  |            1,250,000             |     103,411,120     |              0               |            29             |
-|  143  |            1,250,000             |     104,661,120     |              0               |            29             |
-|  144  |            1,250,000             |     105,911,120     |              0               |            29             |
-|  145  |            1,250,000             |     107,161,120     |              1               |            30             |
-|  146  |            1,250,000             |     108,411,120     |              0               |            30             |
-|  147  |            1,250,000             |     109,661,120     |              0               |            30             |
-|  148  |            1,250,000             |     110,911,120     |              0               |            30             |
-|  149  |            1,250,000             |     112,161,120     |              0               |            30             |
-|  150  |            1,250,000             |     113,411,120     |              1               |            31             |
-|  151  |            1,250,000             |     114,661,120     |              0               |            31             |
-|  152  |            1,250,000             |     115,911,120     |              0               |            31             |
-|  153  |            1,250,000             |     117,161,120     |              0               |            31             |
-|  154  |            1,250,000             |     118,411,120     |              0               |            31             |
-|  155  |            1,250,000             |     119,661,120     |              1               |            32             |
-|  156  |            1,250,000             |     120,911,120     |              0               |            32             |
-|  157  |            1,250,000             |     122,161,120     |              0               |            32             |
-|  158  |            1,250,000             |     123,411,120     |              0               |            32             |
-|  159  |            1,250,000             |     124,661,120     |              0               |            32             |
-|  160  |            1,250,000             |     125,911,120     |              1               |            33             |
-|  161  |            1,250,000             |     127,161,120     |              0               |            33             |
-|  162  |            1,250,000             |     128,411,120     |              0               |            33             |
-|  163  |            1,250,000             |     129,661,120     |              0               |            33             |
-|  164  |            1,250,000             |     130,911,120     |              0               |            33             |
-|  165  |            1,250,000             |     132,161,120     |              1               |            34             |
-|  166  |            1,250,000             |     133,411,120     |              0               |            34             |
-|  167  |            1,250,000             |     134,661,120     |              0               |            34             |
-|  168  |            1,250,000             |     135,911,120     |              0               |            34             |
-|  169  |            1,250,000             |     137,161,120     |              0               |            34             |
-|  170  |            1,250,000             |     138,411,120     |              1               |            35             |
-
-
+![[Pasted image 20260705161451.png]]
+Im Kampf werden die Lebenspunkte von Verbündeten und Gegnern als rote Zahl unter ihrer Namensanzeige in den jeweiligen rechteckigen Anzeigen (Gegner oben und Verbündete unten) angezeigt. 
+## Mana
+Jeder Zauber, den du (außerhalb von PvP) wirkst, kostet Mana. Geht dir das Mana aus, kannst du nicht kämpfen. Es wird durch blaue Kugeln, Tränke oder Minispiele regeneriert.
+## Energie
+Eine spezielle Ressource, die nicht für Kämpfe genutzt wird. Energie brauchst du für das Trainieren von Haustieren, Gärtnern und Fischen. Sie regeneriert sich langsam im Laufe der Zeit.
+## Erfahrungspunkte
+Durch das Abschließen von Quests und das Besiegen von Monstern sammelst du EP. Erreichst du ein neues Level, steigen dein maximales Leben, dein Mana und du kannst neue Zauber oder Ausrüstung freischalten.
+## Trainingspunkte
+Für bestimmte Level-Aufstiege und Spezialquests erhältst du Trainingspunkte. Mit diesen kannst du Zauber aus anderen Schulen lernen.
+# Währungen der Spirale
+In Wizard101 gibt es drei Hauptwährungen, die du für unterschiedliche Dinge benötigst:
+## Gold
+Die Standardwährung des Spiels. Du erhältst Gold durch das Besiegen von Gegnern, das Abschließen von Quests und den Verkauf von Ausrüstung. Mit Gold bezahlst du Standard-Ausrüstung, kaufst Häuser, finanzierst das Züchten von Haustieren oder erwirbst Handwerks-Rezepte und Materialien.
+## Kronen
+Die Premium-Währung in Wizard101. Kronen werden in der Regel mit echtem Geld gekauft (oder in geringen Mengen durch spezielle Events verdient). Mit ihnen kannst du im Kronenshop exklusive Reittiere, Haustiere, Kartenpakete und Ausrüstung kaufen. Ein besonderer Vorteil: Du kannst mit Kronen [auch einzelne Gebiete oder ganze Welten permanent freischalten](https://www.wizard101.com/game/areapricing), ohne eine laufende Mitgliedschaft zu benötigen.
+> [!info] 
+> Eine [Mitgliedschaft](https://eu.wizard101.com/de_DE/game?context=subscribe) bei Wizard101 ist das Abonnement-Modell des Spiels. Sie schaltet nicht nur den Zugang zu allen Welten frei, sondern erweitert die Account-Limits erheblich und schaltet exklusive Mechaniken frei, die für aktives Farmen, Handwerk und das Züchten von Haustieren essenziell sind.
+## Arena-Tickets
+Diese spezielle Währung erhältst du nur durch die Teilnahme an Spieler-gegen-Spieler (PvP) Duellen und Haustier-Derbys. Mit Arena-Tickets kannst du dir bei bestimmten Händlern im PvP-Pavillon einzigartige Ausrüstungsgegenstände, Haustiere und Materialien kaufen.

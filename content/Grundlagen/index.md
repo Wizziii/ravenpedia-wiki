@@ -23,19 +23,15 @@ Zu Beginn des Spiels wählst du eine von sieben Hauptschulen. Deine Schule besti
 Um in der [[Welten/index|Spirale]] zu bestehen, musst du deine Ressourcen verwalten und deinen Charakter durch Levelaufstiege weiterentwickeln:
 ## Lebenspunkte
 Die Lebenspunkte (oft als LP abgekürzt) repräsentieren die Vitalität und Ausdauer einer Zauberin oder eines Zauberers, Begleiters oder einer Kreatur. Sie sind der wichtigste Statuswert im Spiel, da ein Absinken auf 0 zur Niederlage im Kampf führt.
-<div style="display: flex; gap: 0px; align-items: flex-start;">
+<div style="display: flex; gap: 20px; align-items: flex-start;">
   <div style="flex-shrink: 0; width: 200px;">
-
 ![[Pasted image 20260705154644.png]]
-
   </div>
-  
   <div>
-
 Am linken unteren Bildschirmrand werden durchgehend die eigenen Lebenspunkte in einer großen Kugel angezeigt. In der Mitte der Kugel steht der aktuelle Wert im Verhältnis zum Maximalwert.
-
   </div>
 </div>
+
 ![[Pasted image 20260705161451.png]]
 Im Kampf werden die Lebenspunkte von Verbündeten und Gegnern als rote Zahl unter ihrer Namensanzeige in den jeweiligen rechteckigen Anzeigen (Gegner oben und Verbündete unten) angezeigt. 
 ## Mana
